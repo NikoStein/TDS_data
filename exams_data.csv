@@ -1,0 +1,283 @@
+first_name,last_name,subject,date,seat_number
+Rachel,Solorzano,Accounting,2020-04-03,39
+Te,Glassford,Accounting,2020-04-03,44
+Austin,Quintana,Accounting,2020-04-03,12
+Asianna,al-Afzal,Accounting,2020-04-03,48
+Shaamil,Batrez,Accounting,2020-04-03,11
+Thaaqib,Didario,Accounting,2020-04-03,4
+Denise,Suarez,Accounting,2020-04-03,2
+Joshua,Mcclelland,Accounting,2020-04-03,23
+Fikri,Valdez,Accounting,2020-04-03,18
+Michael,el-Sala,Accounting,2020-04-03,42
+Donovan,el-Hoda,Accounting,2020-04-03,22
+Veronica,al-Moradi,Accounting,2020-04-03,33
+Daniel,Carl,Accounting,2020-04-03,1
+Beverly,Rodriguez,Accounting,2020-04-03,37
+Brianna,Bowen,Accounting,2020-04-03,15
+Rif'a,Davis,Accounting,2020-04-03,32
+Addison,el-Allam,Accounting,2020-04-03,13
+Kelsey,Plenty Wolf,Accounting,2020-04-03,26
+Caitlyn,Carter,Accounting,2020-04-03,36
+Tyler,Bustamante-Harrison,Accounting,2020-04-03,46
+Travonn,Lee,Accounting,2020-04-03,41
+Charron,Whitaker,Accounting,2020-04-03,7
+Caitlyn,Johnson,Accounting,2020-04-03,35
+Chandler,Archuleta,Accounting,2020-04-03,38
+Derrick,Phelps,Accounting,2020-04-03,30
+Miguel,Samadh,Accounting,2020-04-03,21
+Erik,Cruz,Accounting,2020-04-03,50
+Nina,el-Kaba,Accounting,2020-04-03,9
+Jonette,Kwon,Accounting,2020-04-03,49
+Toniesha,Ezzat,Accounting,2020-04-03,19
+Shympia,Castro,Accounting,2020-04-03,45
+Fermin,Maclean,Accounting,2020-04-03,40
+Navoria,Belmont,Accounting,2020-04-03,5
+Tara,Duncan,Accounting,2020-04-03,8
+Arraun,el-Ahmad,Accounting,2020-04-03,31
+Sandora,Khanom,Accounting,2020-04-03,27
+Michael,Kramer,Accounting,2020-04-03,14
+Kathleen,Nguyen,Accounting,2020-04-03,10
+Toni,Wolf,Accounting,2020-04-03,6
+Ellison,Two  Crow,Accounting,2020-04-03,47
+Briana,Stillo,Accounting,2020-04-03,43
+Urwa,el-Karimi,Accounting,2020-04-03,3
+Randall,Laredo Serrano,Accounting,2020-04-03,20
+Brittney,Merrill,Accounting,2020-04-03,24
+Darren,Khuu,Accounting,2020-04-03,29
+Alan,Jaeger,Accounting,2020-04-03,28
+Alissa,Wilson,Accounting,2020-04-03,25
+Yaasmeena,Banerjee,Accounting,2020-04-03,16
+Jared,Haynes,Accounting,2020-04-03,17
+Hannah,Holmes,Accounting,2020-04-03,34
+Michael,Nguyen,Finance,2020-04-19,46
+Awni,Whyte,Finance,2020-04-19,37
+Caitlyn,Johnson,Finance,2020-04-19,35
+Arraun,el-Ahmad,Finance,2020-04-19,45
+Toniesha,Gonzales,Finance,2020-04-19,16
+Kirstin,Underwood,Finance,2020-04-19,66
+Joshua,Mcclelland,Finance,2020-04-19,22
+Bobby,Walker,Finance,2020-04-19,29
+Raquel,Contreras,Finance,2020-04-19,70
+ Faaiq,Joyner,Finance,2020-04-19,63
+Derrick,Phelps,Finance,2020-04-19,36
+Travonn,Lee,Finance,2020-04-19,32
+Shamaail,Reid,Finance,2020-04-19,12
+Brandon,Barringer,Finance,2020-04-19,4
+Marissa,Padilla,Finance,2020-04-19,34
+Shiloh,Compton,Finance,2020-04-19,2
+Zaid,Dominique,Finance,2020-04-19,20
+Ryan,Medina,Finance,2020-04-19,23
+Chelsea,Guilliams,Finance,2020-04-19,21
+Veronica,al-Moradi,Finance,2020-04-19,64
+Dakota,Pittman,Finance,2020-04-19,58
+Mckenna,Casias,Finance,2020-04-19,50
+Toniesha,Ezzat,Finance,2020-04-19,49
+Yaasmeena,Banerjee,Finance,2020-04-19,8
+Taaj,Tran,Finance,2020-04-19,53
+Taamira,Chen,Finance,2020-04-19,14
+Daniel,Diep,Finance,2020-04-19,55
+Joyce,Nguyen,Finance,2020-04-19,61
+Fikri,Valdez,Finance,2020-04-19,56
+Shympia,Castro,Finance,2020-04-19,19
+Emily,el-Munir,Finance,2020-04-19,59
+Darshae,Collins,Finance,2020-04-19,65
+Fernando,el-Hanif,Finance,2020-04-19,54
+Brittney,Merrill,Finance,2020-04-19,67
+Sandora,Khanom,Finance,2020-04-19,38
+Inderpal,al-Ahmed,Finance,2020-04-19,9
+Markel,Berry,Finance,2020-04-19,30
+Juwairiya,Yang,Finance,2020-04-19,27
+Toni,Wolf,Finance,2020-04-19,25
+Bethany,Stanek,Finance,2020-04-19,10
+Austin,Quintana,Finance,2020-04-19,47
+Danae,al-Hamdan,Finance,2020-04-19,43
+Autumn,al-Zamani,Finance,2020-04-19,5
+Alicia,Creed,Finance,2020-04-19,15
+Mariah,Wagner,Finance,2020-04-19,18
+Jennifer,Purdham,Finance,2020-04-19,24
+Alicia,Keita,Finance,2020-04-19,60
+Jamie,Loya,Finance,2020-04-19,57
+Wajdiyya,Garman,Finance,2020-04-19,6
+Sara,Lovato,Finance,2020-04-19,41
+Michael,Kramer,Finance,2020-04-19,3
+Apryll,Lee,Finance,2020-04-19,13
+Trevor,Barnes,Finance,2020-04-19,40
+Corey,al-Farooq,Finance,2020-04-19,31
+Ellen,King,Finance,2020-04-19,17
+Seung,Moore,Finance,2020-04-19,39
+Charron,Whitaker,Finance,2020-04-19,1
+Virginia,el-Ashraf,Finance,2020-04-19,26
+Zavian,Mayes,Finance,2020-04-19,42
+Shafee'a,Gill,Finance,2020-04-19,33
+Sawada,Hall,Finance,2020-04-19,68
+Hannah,Holmes,Finance,2020-04-19,48
+Kolten,al-Raad,Finance,2020-04-19,51
+Sanad,Tran,Finance,2020-04-19,11
+Urwa,el-Karimi,Finance,2020-04-19,62
+Blake,Strabala,Finance,2020-04-19,52
+Cristal,Steinke,Finance,2020-04-19,28
+Christian,Portice,Finance,2020-04-19,7
+Leticia,Cha,Finance,2020-04-19,69
+Mike,Williams,Finance,2020-04-19,44
+Yaasmeena,Banerjee,Decision Making,2020-04-25,2
+Brandon,Barringer,Decision Making,2020-04-25,13
+Christian,Portice,Decision Making,2020-04-25,8
+Ernesto,Morgan,Decision Making,2020-04-25,29
+Beverly,Rodriguez,Decision Making,2020-04-25,9
+Morgan,Wilson,Decision Making,2020-04-25,31
+Angelica,Lafebre,Decision Making,2020-04-25,32
+Seung,Moore,Decision Making,2020-04-25,10
+Hannah,Holmes,Decision Making,2020-04-25,23
+Joshua,Herrera,Decision Making,2020-04-25,27
+Antonio,Gomez,Decision Making,2020-04-25,3
+Yareli,Mckinney-Simmons,Decision Making,2020-04-25,19
+ Faaiq,Joyner,Decision Making,2020-04-25,1
+Sage,Aguayo,Decision Making,2020-04-25,20
+Juwairiya,Yang,Decision Making,2020-04-25,6
+Chandler,Archuleta,Decision Making,2020-04-25,11
+Lorelle,Hale,Decision Making,2020-04-25,5
+Musfira,Ashby,Decision Making,2020-04-25,12
+Kolten,al-Raad,Decision Making,2020-04-25,16
+Aranda,Garcia,Decision Making,2020-04-25,14
+Awni,Whyte,Decision Making,2020-04-25,26
+Joann,al-Azam,Decision Making,2020-04-25,25
+Elaney,Johnson,Decision Making,2020-04-25,24
+Mariah,Wagner,Decision Making,2020-04-25,4
+Taaj,Tran,Decision Making,2020-04-25,18
+Chey,Gallegos,Decision Making,2020-04-25,22
+Lee,el-Tabatabai,Decision Making,2020-04-25,28
+Angeline,Acosta-Cardenas,Decision Making,2020-04-25,30
+Nafeesa,al-Mustafa,Decision Making,2020-04-25,21
+Alec,Light Bosquez,Decision Making,2020-04-25,7
+Mark,Podlogar,Decision Making,2020-04-25,17
+Mike,Williams,Decision Making,2020-04-25,15
+Emily,el-Munir,Marketing,2020-04-03,15
+Jennifer,Purdham,Marketing,2020-04-03,89
+Shaamil,Batrez,Marketing,2020-04-03,110
+Abraham,Davis,Marketing,2020-04-03,115
+Jessica,el-Toure,Marketing,2020-04-03,123
+Melissa,Christensen,Marketing,2020-04-03,120
+Autumn,al-Zamani,Marketing,2020-04-03,71
+Jenesha,Vo,Marketing,2020-04-03,24
+Fawqiyya,al-Saleem,Marketing,2020-04-03,92
+Ellison,Two  Crow,Marketing,2020-04-03,69
+Morgan,Wilson,Marketing,2020-04-03,8
+Shympia,Castro,Marketing,2020-04-03,39
+Fernando,el-Hanif,Marketing,2020-04-03,124
+Ty,Klutse,Marketing,2020-04-03,28
+Jericho,al-Wahab,Marketing,2020-04-03,47
+Irma,Dubus,Marketing,2020-04-03,97
+Rachel,Solorzano,Marketing,2020-04-03,30
+Randall,Laredo Serrano,Marketing,2020-04-03,25
+Ernesto,Morgan,Marketing,2020-04-03,27
+Bethany,Stanek,Marketing,2020-04-03,62
+Wajdiyya,Garman,Marketing,2020-04-03,96
+Veronica,al-Moradi,Marketing,2020-04-03,49
+Urwa,el-Karimi,Marketing,2020-04-03,40
+Antonio,Gomez,Marketing,2020-04-03,21
+Kezia,el-Kader,Marketing,2020-04-03,37
+Ramza,al-Pasha,Marketing,2020-04-03,102
+Hanyuan,Herrera,Marketing,2020-04-03,44
+Amaani,Bosma,Marketing,2020-04-03,65
+Raquel,Contreras,Marketing,2020-04-03,41
+Cody,Poyer,Marketing,2020-04-03,55
+Seung,Moore,Marketing,2020-04-03,38
+Angeline,Acosta-Cardenas,Marketing,2020-04-03,50
+Kolten,al-Raad,Marketing,2020-04-03,117
+Jacob,Miranda,Marketing,2020-04-03,105
+Asianna,al-Afzal,Marketing,2020-04-03,86
+Darshae,Collins,Marketing,2020-04-03,64
+Maiya,Lewis,Marketing,2020-04-03,22
+Caitlyn,Johnson,Marketing,2020-04-03,54
+Lorelle,Hale,Marketing,2020-04-03,129
+Chelsea,Guilliams,Marketing,2020-04-03,80
+Breann,Ross,Marketing,2020-04-03,113
+Vicente,Taylor,Marketing,2020-04-03,79
+Jeremiah,Dubus,Marketing,2020-04-03,58
+Hamdaan,Burke,Marketing,2020-04-03,18
+Musfira,Ashby,Marketing,2020-04-03,52
+Yaasmeena,Banerjee,Marketing,2020-04-03,118
+ Faaiq,Joyner,Marketing,2020-04-03,74
+Melanie,Rodriguez,Marketing,2020-04-03,5
+Samuel,Demaria,Marketing,2020-04-03,59
+Toniesha,Gonzales,Marketing,2020-04-03,60
+Tanner,Mcgaughy,Marketing,2020-04-03,99
+Apryll,Lee,Marketing,2020-04-03,51
+Jordan,Rea,Marketing,2020-04-03,106
+Marisa,Avila,Marketing,2020-04-03,101
+Alissa,Wilson,Marketing,2020-04-03,130
+Thaaqib,Didario,Marketing,2020-04-03,11
+Jonathan,Charleston,Marketing,2020-04-03,111
+Toni,Wolf,Marketing,2020-04-03,32
+Alicia,Creed,Marketing,2020-04-03,84
+Timothy,Whatley,Marketing,2020-04-03,3
+Miguel,Samadh,Marketing,2020-04-03,48
+Joyce,Nguyen,Marketing,2020-04-03,119
+Rif'a,Davis,Marketing,2020-04-03,56
+Angelica,Lafebre,Marketing,2020-04-03,98
+Jeffrey,Verdugo,Marketing,2020-04-03,100
+Sanad,Tran,Marketing,2020-04-03,6
+Michael,Nguyen,Marketing,2020-04-03,45
+Shafee'a,Gill,Marketing,2020-04-03,53
+Denise,Suarez,Marketing,2020-04-03,103
+Nafeesa,al-Mustafa,Marketing,2020-04-03,57
+Joann,al-Azam,Marketing,2020-04-03,76
+Kathleen,Nguyen,Marketing,2020-04-03,121
+Brianna,Bowen,Marketing,2020-04-03,4
+Sandora,Khanom,Marketing,2020-04-03,122
+Nicholas,Halaseh,Marketing,2020-04-03,88
+Hannah,Holmes,Marketing,2020-04-03,112
+Ryan,Nguyen,Marketing,2020-04-03,75
+Taamira,Chen,Marketing,2020-04-03,63
+William,Simmons,Marketing,2020-04-03,67
+Austin,al-Jamil,Marketing,2020-04-03,36
+Enrico,Katzman,Marketing,2020-04-03,9
+Kathryn,Martin,Marketing,2020-04-03,14
+Connor,Glick,Marketing,2020-04-03,10
+Mckenna,Casias,Marketing,2020-04-03,85
+Leticia,Cha,Marketing,2020-04-03,43
+Chey,Gallegos,Marketing,2020-04-03,91
+Aranda,Garcia,Marketing,2020-04-03,83
+Mark,Podlogar,Marketing,2020-04-03,17
+Rushdi,Eastman,Marketing,2020-04-03,127
+Qutb,el-Edris,Marketing,2020-04-03,114
+Kirstin,Underwood,Marketing,2020-04-03,109
+Alec,Light Bosquez,Marketing,2020-04-03,31
+Dakota,Pittman,Marketing,2020-04-03,77
+Daniel,Diep,Marketing,2020-04-03,95
+Isaac,Price,Marketing,2020-04-03,29
+Michael,Kramer,Marketing,2020-04-03,12
+Alexander,Miller,Marketing,2020-04-03,2
+Tyree,el-Barakat,Marketing,2020-04-03,70
+Caitlyn,Carter,Marketing,2020-04-03,81
+Travonn,Lee,Marketing,2020-04-03,82
+Brittney,Merrill,Marketing,2020-04-03,87
+Shiloh,Compton,Marketing,2020-04-03,128
+Fikri,Valdez,Marketing,2020-04-03,23
+Joshua,Mcclelland,Marketing,2020-04-03,61
+Sage,Aguayo,Marketing,2020-04-03,78
+Awni,Whyte,Marketing,2020-04-03,34
+Christian,Portice,Marketing,2020-04-03,116
+Gabriel,Fetter,Marketing,2020-04-03,66
+Ace,Byfield,Marketing,2020-04-03,73
+Cristal,Steinke,Marketing,2020-04-03,46
+Brandon,Barringer,Marketing,2020-04-03,107
+Michael,Stephen-Miller,Marketing,2020-04-03,108
+Zavian,Mayes,Marketing,2020-04-03,104
+Markel,Berry,Marketing,2020-04-03,1
+Ryan,Medina,Marketing,2020-04-03,13
+Jordan,al-Odeh,Marketing,2020-04-03,72
+Blake,Strabala,Marketing,2020-04-03,33
+Elaney,Johnson,Marketing,2020-04-03,7
+Inderpal,al-Ahmed,Marketing,2020-04-03,19
+Yareli,Mckinney-Simmons,Marketing,2020-04-03,16
+Telmen,Louie,Marketing,2020-04-03,26
+Mariah,Wagner,Marketing,2020-04-03,90
+Leah,Stirmers,Marketing,2020-04-03,125
+Hunter,Martel,Marketing,2020-04-03,93
+Valeria,Wisdom,Marketing,2020-04-03,94
+Virginia,el-Ashraf,Marketing,2020-04-03,42
+Joshua,Herrera,Marketing,2020-04-03,35
+Juwairiya,Yang,Marketing,2020-04-03,20
+Dylahn,Ro,Marketing,2020-04-03,126
+Phillip,Che,Marketing,2020-04-03,68
