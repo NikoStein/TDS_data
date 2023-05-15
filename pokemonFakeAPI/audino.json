@@ -1,1 +1,1 @@
-{"id": 531, "name": "audino", "height": 11, "weight": 310, "species": "https://pokeapi.co/api/v2/pokemon-species/531/", "stats": {"hp": 103, "attack": 60, "defense": 86, "special-attack": 60, "special-defense": 86, "speed": 50}}
+{"id": 531, "name": "audino", "height": 11, "weight": 310, "base_experience": 390, "species_url": "https://pokeapi.co/api/v2/pokemon-species/531/", "stats": {"hp": 103, "attack": 60, "defense": 86, "special-attack": 60, "special-defense": 86, "speed": 50}}

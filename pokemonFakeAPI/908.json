@@ -1,1 +1,1 @@
-{"id": 908, "name": "meowscarada", "height": 15, "weight": 312, "species": "https://pokeapi.co/api/v2/pokemon-species/908/", "stats": {"hp": 76, "attack": 110, "defense": 70, "special-attack": 81, "special-defense": 70, "speed": 123}}
+{"id": 908, "name": "meowscarada", "height": 15, "weight": 312, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/908/", "stats": {"hp": 76, "attack": 110, "defense": 70, "special-attack": 81, "special-defense": 70, "speed": 123}}

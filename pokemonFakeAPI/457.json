@@ -1,1 +1,1 @@
-{"id": 457, "name": "lumineon", "height": 12, "weight": 240, "species": "https://pokeapi.co/api/v2/pokemon-species/457/", "stats": {"hp": 69, "attack": 69, "defense": 76, "special-attack": 69, "special-defense": 86, "speed": 91}}
+{"id": 457, "name": "lumineon", "height": 12, "weight": 240, "base_experience": 161, "species_url": "https://pokeapi.co/api/v2/pokemon-species/457/", "stats": {"hp": 69, "attack": 69, "defense": 76, "special-attack": 69, "special-defense": 86, "speed": 91}}

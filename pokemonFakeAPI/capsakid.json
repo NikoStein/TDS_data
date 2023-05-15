@@ -1,1 +1,1 @@
-{"id": 951, "name": "capsakid", "height": 3, "weight": 30, "species": "https://pokeapi.co/api/v2/pokemon-species/951/", "stats": {"hp": 50, "attack": 62, "defense": 40, "special-attack": 62, "special-defense": 40, "speed": 50}}
+{"id": 951, "name": "capsakid", "height": 3, "weight": 30, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/951/", "stats": {"hp": 50, "attack": 62, "defense": 40, "special-attack": 62, "special-defense": 40, "speed": 50}}

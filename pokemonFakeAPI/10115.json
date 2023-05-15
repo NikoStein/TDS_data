@@ -1,1 +1,1 @@
-{"id": 10115, "name": "marowak-alola", "height": 10, "weight": 340, "species": "https://pokeapi.co/api/v2/pokemon-species/105/", "stats": {"hp": 60, "attack": 80, "defense": 110, "special-attack": 50, "special-defense": 80, "speed": 45}}
+{"id": 10115, "name": "marowak-alola", "height": 10, "weight": 340, "base_experience": 149, "species_url": "https://pokeapi.co/api/v2/pokemon-species/105/", "stats": {"hp": 60, "attack": 80, "defense": 110, "special-attack": 50, "special-defense": 80, "speed": 45}}

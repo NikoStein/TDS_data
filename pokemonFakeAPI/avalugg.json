@@ -1,1 +1,1 @@
-{"id": 713, "name": "avalugg", "height": 20, "weight": 5050, "species": "https://pokeapi.co/api/v2/pokemon-species/713/", "stats": {"hp": 95, "attack": 117, "defense": 184, "special-attack": 44, "special-defense": 46, "speed": 28}}
+{"id": 713, "name": "avalugg", "height": 20, "weight": 5050, "base_experience": 180, "species_url": "https://pokeapi.co/api/v2/pokemon-species/713/", "stats": {"hp": 95, "attack": 117, "defense": 184, "special-attack": 44, "special-defense": 46, "speed": 28}}

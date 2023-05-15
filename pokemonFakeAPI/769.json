@@ -1,1 +1,1 @@
-{"id": 769, "name": "sandygast", "height": 5, "weight": 700, "species": "https://pokeapi.co/api/v2/pokemon-species/769/", "stats": {"hp": 55, "attack": 55, "defense": 80, "special-attack": 70, "special-defense": 45, "speed": 15}}
+{"id": 769, "name": "sandygast", "height": 5, "weight": 700, "base_experience": 64, "species_url": "https://pokeapi.co/api/v2/pokemon-species/769/", "stats": {"hp": 55, "attack": 55, "defense": 80, "special-attack": 70, "special-defense": 45, "speed": 15}}

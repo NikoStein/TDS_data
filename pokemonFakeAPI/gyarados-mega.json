@@ -1,1 +1,1 @@
-{"id": 10041, "name": "gyarados-mega", "height": 65, "weight": 3050, "species": "https://pokeapi.co/api/v2/pokemon-species/130/", "stats": {"hp": 95, "attack": 155, "defense": 109, "special-attack": 70, "special-defense": 130, "speed": 81}}
+{"id": 10041, "name": "gyarados-mega", "height": 65, "weight": 3050, "base_experience": 224, "species_url": "https://pokeapi.co/api/v2/pokemon-species/130/", "stats": {"hp": 95, "attack": 155, "defense": 109, "special-attack": 70, "special-defense": 130, "speed": 81}}

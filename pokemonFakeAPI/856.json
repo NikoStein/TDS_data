@@ -1,1 +1,1 @@
-{"id": 856, "name": "hatenna", "height": 4, "weight": 34, "species": "https://pokeapi.co/api/v2/pokemon-species/856/", "stats": {"hp": 42, "attack": 30, "defense": 45, "special-attack": 56, "special-defense": 53, "speed": 39}}
+{"id": 856, "name": "hatenna", "height": 4, "weight": 34, "base_experience": 53, "species_url": "https://pokeapi.co/api/v2/pokemon-species/856/", "stats": {"hp": 42, "attack": 30, "defense": 45, "special-attack": 56, "special-defense": 53, "speed": 39}}

@@ -1,1 +1,1 @@
-{"id": 305, "name": "lairon", "height": 9, "weight": 1200, "species": "https://pokeapi.co/api/v2/pokemon-species/305/", "stats": {"hp": 60, "attack": 90, "defense": 140, "special-attack": 50, "special-defense": 50, "speed": 40}}
+{"id": 305, "name": "lairon", "height": 9, "weight": 1200, "base_experience": 151, "species_url": "https://pokeapi.co/api/v2/pokemon-species/305/", "stats": {"hp": 60, "attack": 90, "defense": 140, "special-attack": 50, "special-defense": 50, "speed": 40}}

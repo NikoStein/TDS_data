@@ -1,1 +1,1 @@
-{"id": 10109, "name": "geodude-alola", "height": 4, "weight": 203, "species": "https://pokeapi.co/api/v2/pokemon-species/74/", "stats": {"hp": 40, "attack": 80, "defense": 100, "special-attack": 30, "special-defense": 30, "speed": 20}}
+{"id": 10109, "name": "geodude-alola", "height": 4, "weight": 203, "base_experience": 60, "species_url": "https://pokeapi.co/api/v2/pokemon-species/74/", "stats": {"hp": 40, "attack": 80, "defense": 100, "special-attack": 30, "special-defense": 30, "speed": 20}}

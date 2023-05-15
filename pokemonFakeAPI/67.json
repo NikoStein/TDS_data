@@ -1,1 +1,1 @@
-{"id": 67, "name": "machoke", "height": 15, "weight": 705, "species": "https://pokeapi.co/api/v2/pokemon-species/67/", "stats": {"hp": 80, "attack": 100, "defense": 70, "special-attack": 50, "special-defense": 60, "speed": 45}}
+{"id": 67, "name": "machoke", "height": 15, "weight": 705, "base_experience": 142, "species_url": "https://pokeapi.co/api/v2/pokemon-species/67/", "stats": {"hp": 80, "attack": 100, "defense": 70, "special-attack": 50, "special-defense": 60, "speed": 45}}

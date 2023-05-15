@@ -1,1 +1,1 @@
-{"id": 408, "name": "cranidos", "height": 9, "weight": 315, "species": "https://pokeapi.co/api/v2/pokemon-species/408/", "stats": {"hp": 67, "attack": 125, "defense": 40, "special-attack": 30, "special-defense": 30, "speed": 58}}
+{"id": 408, "name": "cranidos", "height": 9, "weight": 315, "base_experience": 70, "species_url": "https://pokeapi.co/api/v2/pokemon-species/408/", "stats": {"hp": 67, "attack": 125, "defense": 40, "special-attack": 30, "special-defense": 30, "speed": 58}}

@@ -1,1 +1,1 @@
-{"id": 694, "name": "helioptile", "height": 5, "weight": 60, "species": "https://pokeapi.co/api/v2/pokemon-species/694/", "stats": {"hp": 44, "attack": 38, "defense": 33, "special-attack": 61, "special-defense": 43, "speed": 70}}
+{"id": 694, "name": "helioptile", "height": 5, "weight": 60, "base_experience": 58, "species_url": "https://pokeapi.co/api/v2/pokemon-species/694/", "stats": {"hp": 44, "attack": 38, "defense": 33, "special-attack": 61, "special-defense": 43, "speed": 70}}

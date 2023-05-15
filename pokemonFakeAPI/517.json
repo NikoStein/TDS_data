@@ -1,1 +1,1 @@
-{"id": 517, "name": "munna", "height": 6, "weight": 233, "species": "https://pokeapi.co/api/v2/pokemon-species/517/", "stats": {"hp": 76, "attack": 25, "defense": 45, "special-attack": 67, "special-defense": 55, "speed": 24}}
+{"id": 517, "name": "munna", "height": 6, "weight": 233, "base_experience": 58, "species_url": "https://pokeapi.co/api/v2/pokemon-species/517/", "stats": {"hp": 76, "attack": 25, "defense": 45, "special-attack": 67, "special-defense": 55, "speed": 24}}

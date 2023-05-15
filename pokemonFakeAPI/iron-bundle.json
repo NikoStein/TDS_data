@@ -1,1 +1,1 @@
-{"id": 991, "name": "iron-bundle", "height": 6, "weight": 110, "species": "https://pokeapi.co/api/v2/pokemon-species/991/", "stats": {"hp": 56, "attack": 80, "defense": 114, "special-attack": 124, "special-defense": 60, "speed": 136}}
+{"id": 991, "name": "iron-bundle", "height": 6, "weight": 110, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/991/", "stats": {"hp": 56, "attack": 80, "defense": 114, "special-attack": 124, "special-defense": 60, "speed": 136}}

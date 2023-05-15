@@ -1,1 +1,1 @@
-{"id": 500, "name": "emboar", "height": 16, "weight": 1500, "species": "https://pokeapi.co/api/v2/pokemon-species/500/", "stats": {"hp": 110, "attack": 123, "defense": 65, "special-attack": 100, "special-defense": 65, "speed": 65}}
+{"id": 500, "name": "emboar", "height": 16, "weight": 1500, "base_experience": 238, "species_url": "https://pokeapi.co/api/v2/pokemon-species/500/", "stats": {"hp": 110, "attack": 123, "defense": 65, "special-attack": 100, "special-defense": 65, "speed": 65}}

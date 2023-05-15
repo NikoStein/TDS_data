@@ -1,1 +1,1 @@
-{"id": 677, "name": "espurr", "height": 3, "weight": 35, "species": "https://pokeapi.co/api/v2/pokemon-species/677/", "stats": {"hp": 62, "attack": 48, "defense": 54, "special-attack": 63, "special-defense": 60, "speed": 68}}
+{"id": 677, "name": "espurr", "height": 3, "weight": 35, "base_experience": 71, "species_url": "https://pokeapi.co/api/v2/pokemon-species/677/", "stats": {"hp": 62, "attack": 48, "defense": 54, "special-attack": 63, "special-defense": 60, "speed": 68}}

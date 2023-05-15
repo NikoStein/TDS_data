@@ -1,1 +1,1 @@
-{"id": 10185, "name": "eiscue-noice", "height": 14, "weight": 890, "species": "https://pokeapi.co/api/v2/pokemon-species/875/", "stats": {"hp": 75, "attack": 80, "defense": 70, "special-attack": 65, "special-defense": 50, "speed": 130}}
+{"id": 10185, "name": "eiscue-noice", "height": 14, "weight": 890, "base_experience": 165, "species_url": "https://pokeapi.co/api/v2/pokemon-species/875/", "stats": {"hp": 75, "attack": 80, "defense": 70, "special-attack": 65, "special-defense": 50, "speed": 130}}

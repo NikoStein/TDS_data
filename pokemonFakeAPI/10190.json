@@ -1,1 +1,1 @@
-{"id": 10190, "name": "eternatus-eternamax", "height": 1000, "weight": 0, "species": "https://pokeapi.co/api/v2/pokemon-species/890/", "stats": {"hp": 255, "attack": 115, "defense": 250, "special-attack": 125, "special-defense": 250, "speed": 130}}
+{"id": 10190, "name": "eternatus-eternamax", "height": 1000, "weight": 0, "base_experience": 563, "species_url": "https://pokeapi.co/api/v2/pokemon-species/890/", "stats": {"hp": 255, "attack": 115, "defense": 250, "special-attack": 125, "special-defense": 250, "speed": 130}}

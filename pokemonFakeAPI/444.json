@@ -1,1 +1,1 @@
-{"id": 444, "name": "gabite", "height": 14, "weight": 560, "species": "https://pokeapi.co/api/v2/pokemon-species/444/", "stats": {"hp": 68, "attack": 90, "defense": 65, "special-attack": 50, "special-defense": 55, "speed": 82}}
+{"id": 444, "name": "gabite", "height": 14, "weight": 560, "base_experience": 144, "species_url": "https://pokeapi.co/api/v2/pokemon-species/444/", "stats": {"hp": 68, "attack": 90, "defense": 65, "special-attack": 50, "special-defense": 55, "speed": 82}}

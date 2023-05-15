@@ -1,1 +1,1 @@
-{"id": 168, "name": "ariados", "height": 11, "weight": 335, "species": "https://pokeapi.co/api/v2/pokemon-species/168/", "stats": {"hp": 70, "attack": 90, "defense": 70, "special-attack": 60, "special-defense": 70, "speed": 40}}
+{"id": 168, "name": "ariados", "height": 11, "weight": 335, "base_experience": 140, "species_url": "https://pokeapi.co/api/v2/pokemon-species/168/", "stats": {"hp": 70, "attack": 90, "defense": 70, "special-attack": 60, "special-defense": 70, "speed": 40}}

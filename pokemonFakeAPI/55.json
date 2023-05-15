@@ -1,1 +1,1 @@
-{"id": 55, "name": "golduck", "height": 17, "weight": 766, "species": "https://pokeapi.co/api/v2/pokemon-species/55/", "stats": {"hp": 80, "attack": 82, "defense": 78, "special-attack": 95, "special-defense": 80, "speed": 85}}
+{"id": 55, "name": "golduck", "height": 17, "weight": 766, "base_experience": 175, "species_url": "https://pokeapi.co/api/v2/pokemon-species/55/", "stats": {"hp": 80, "attack": 82, "defense": 78, "special-attack": 95, "special-defense": 80, "speed": 85}}

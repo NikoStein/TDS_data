@@ -1,1 +1,1 @@
-{"id": 945, "name": "grafaiai", "height": 7, "weight": 272, "species": "https://pokeapi.co/api/v2/pokemon-species/945/", "stats": {"hp": 63, "attack": 95, "defense": 65, "special-attack": 80, "special-defense": 72, "speed": 110}}
+{"id": 945, "name": "grafaiai", "height": 7, "weight": 272, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/945/", "stats": {"hp": 63, "attack": 95, "defense": 65, "special-attack": 80, "special-defense": 72, "speed": 110}}

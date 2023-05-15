@@ -1,1 +1,1 @@
-{"id": 857, "name": "hattrem", "height": 6, "weight": 48, "species": "https://pokeapi.co/api/v2/pokemon-species/857/", "stats": {"hp": 57, "attack": 40, "defense": 65, "special-attack": 86, "special-defense": 73, "speed": 49}}
+{"id": 857, "name": "hattrem", "height": 6, "weight": 48, "base_experience": 130, "species_url": "https://pokeapi.co/api/v2/pokemon-species/857/", "stats": {"hp": 57, "attack": 40, "defense": 65, "special-attack": 86, "special-defense": 73, "speed": 49}}

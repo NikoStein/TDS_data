@@ -1,1 +1,1 @@
-{"id": 323, "name": "camerupt", "height": 19, "weight": 2200, "species": "https://pokeapi.co/api/v2/pokemon-species/323/", "stats": {"hp": 70, "attack": 100, "defense": 70, "special-attack": 105, "special-defense": 75, "speed": 40}}
+{"id": 323, "name": "camerupt", "height": 19, "weight": 2200, "base_experience": 161, "species_url": "https://pokeapi.co/api/v2/pokemon-species/323/", "stats": {"hp": 70, "attack": 100, "defense": 70, "special-attack": 105, "special-defense": 75, "speed": 40}}

@@ -1,1 +1,1 @@
-{"id": 264, "name": "linoone", "height": 5, "weight": 325, "species": "https://pokeapi.co/api/v2/pokemon-species/264/", "stats": {"hp": 78, "attack": 70, "defense": 61, "special-attack": 50, "special-defense": 61, "speed": 100}}
+{"id": 264, "name": "linoone", "height": 5, "weight": 325, "base_experience": 147, "species_url": "https://pokeapi.co/api/v2/pokemon-species/264/", "stats": {"hp": 78, "attack": 70, "defense": 61, "special-attack": 50, "special-defense": 61, "speed": 100}}

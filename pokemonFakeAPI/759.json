@@ -1,1 +1,1 @@
-{"id": 759, "name": "stufful", "height": 5, "weight": 68, "species": "https://pokeapi.co/api/v2/pokemon-species/759/", "stats": {"hp": 70, "attack": 75, "defense": 50, "special-attack": 45, "special-defense": 50, "speed": 50}}
+{"id": 759, "name": "stufful", "height": 5, "weight": 68, "base_experience": 68, "species_url": "https://pokeapi.co/api/v2/pokemon-species/759/", "stats": {"hp": 70, "attack": 75, "defense": 50, "special-attack": 45, "special-defense": 50, "speed": 50}}

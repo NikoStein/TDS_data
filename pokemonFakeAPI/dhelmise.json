@@ -1,1 +1,1 @@
-{"id": 781, "name": "dhelmise", "height": 39, "weight": 2100, "species": "https://pokeapi.co/api/v2/pokemon-species/781/", "stats": {"hp": 70, "attack": 131, "defense": 100, "special-attack": 86, "special-defense": 90, "speed": 40}}
+{"id": 781, "name": "dhelmise", "height": 39, "weight": 2100, "base_experience": 181, "species_url": "https://pokeapi.co/api/v2/pokemon-species/781/", "stats": {"hp": 70, "attack": 131, "defense": 100, "special-attack": 86, "special-defense": 90, "speed": 40}}

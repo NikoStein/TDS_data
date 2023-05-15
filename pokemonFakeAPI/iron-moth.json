@@ -1,1 +1,1 @@
-{"id": 994, "name": "iron-moth", "height": 12, "weight": 360, "species": "https://pokeapi.co/api/v2/pokemon-species/994/", "stats": {"hp": 80, "attack": 70, "defense": 60, "special-attack": 140, "special-defense": 110, "speed": 110}}
+{"id": 994, "name": "iron-moth", "height": 12, "weight": 360, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/994/", "stats": {"hp": 80, "attack": 70, "defense": 60, "special-attack": 140, "special-defense": 110, "speed": 110}}

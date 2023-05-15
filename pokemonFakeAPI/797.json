@@ -1,1 +1,1 @@
-{"id": 797, "name": "celesteela", "height": 92, "weight": 9999, "species": "https://pokeapi.co/api/v2/pokemon-species/797/", "stats": {"hp": 97, "attack": 101, "defense": 103, "special-attack": 107, "special-defense": 101, "speed": 61}}
+{"id": 797, "name": "celesteela", "height": 92, "weight": 9999, "base_experience": 285, "species_url": "https://pokeapi.co/api/v2/pokemon-species/797/", "stats": {"hp": 97, "attack": 101, "defense": 103, "special-attack": 107, "special-defense": 101, "speed": 61}}

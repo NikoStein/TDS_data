@@ -1,1 +1,1 @@
-{"id": 346, "name": "cradily", "height": 15, "weight": 604, "species": "https://pokeapi.co/api/v2/pokemon-species/346/", "stats": {"hp": 86, "attack": 81, "defense": 97, "special-attack": 81, "special-defense": 107, "speed": 43}}
+{"id": 346, "name": "cradily", "height": 15, "weight": 604, "base_experience": 173, "species_url": "https://pokeapi.co/api/v2/pokemon-species/346/", "stats": {"hp": 86, "attack": 81, "defense": 97, "special-attack": 81, "special-defense": 107, "speed": 43}}

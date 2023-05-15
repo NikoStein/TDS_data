@@ -1,1 +1,1 @@
-{"id": 478, "name": "froslass", "height": 13, "weight": 266, "species": "https://pokeapi.co/api/v2/pokemon-species/478/", "stats": {"hp": 70, "attack": 80, "defense": 70, "special-attack": 80, "special-defense": 70, "speed": 110}}
+{"id": 478, "name": "froslass", "height": 13, "weight": 266, "base_experience": 168, "species_url": "https://pokeapi.co/api/v2/pokemon-species/478/", "stats": {"hp": 70, "attack": 80, "defense": 70, "special-attack": 80, "special-defense": 70, "speed": 110}}

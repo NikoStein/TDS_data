@@ -1,1 +1,1 @@
-{"id": 547, "name": "whimsicott", "height": 7, "weight": 66, "species": "https://pokeapi.co/api/v2/pokemon-species/547/", "stats": {"hp": 60, "attack": 67, "defense": 85, "special-attack": 77, "special-defense": 75, "speed": 116}}
+{"id": 547, "name": "whimsicott", "height": 7, "weight": 66, "base_experience": 168, "species_url": "https://pokeapi.co/api/v2/pokemon-species/547/", "stats": {"hp": 60, "attack": 67, "defense": 85, "special-attack": 77, "special-defense": 75, "speed": 116}}

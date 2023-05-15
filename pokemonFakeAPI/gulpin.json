@@ -1,1 +1,1 @@
-{"id": 316, "name": "gulpin", "height": 4, "weight": 103, "species": "https://pokeapi.co/api/v2/pokemon-species/316/", "stats": {"hp": 70, "attack": 43, "defense": 53, "special-attack": 43, "special-defense": 53, "speed": 40}}
+{"id": 316, "name": "gulpin", "height": 4, "weight": 103, "base_experience": 60, "species_url": "https://pokeapi.co/api/v2/pokemon-species/316/", "stats": {"hp": 70, "attack": 43, "defense": 53, "special-attack": 43, "special-defense": 53, "speed": 40}}

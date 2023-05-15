@@ -1,1 +1,1 @@
-{"id": 555, "name": "darmanitan-standard", "height": 13, "weight": 929, "species": "https://pokeapi.co/api/v2/pokemon-species/555/", "stats": {"hp": 105, "attack": 140, "defense": 55, "special-attack": 30, "special-defense": 55, "speed": 95}}
+{"id": 555, "name": "darmanitan-standard", "height": 13, "weight": 929, "base_experience": 168, "species_url": "https://pokeapi.co/api/v2/pokemon-species/555/", "stats": {"hp": 105, "attack": 140, "defense": 55, "special-attack": 30, "special-defense": 55, "speed": 95}}

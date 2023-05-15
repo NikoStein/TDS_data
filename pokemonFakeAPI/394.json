@@ -1,1 +1,1 @@
-{"id": 394, "name": "prinplup", "height": 8, "weight": 230, "species": "https://pokeapi.co/api/v2/pokemon-species/394/", "stats": {"hp": 64, "attack": 66, "defense": 68, "special-attack": 81, "special-defense": 76, "speed": 50}}
+{"id": 394, "name": "prinplup", "height": 8, "weight": 230, "base_experience": 142, "species_url": "https://pokeapi.co/api/v2/pokemon-species/394/", "stats": {"hp": 64, "attack": 66, "defense": 68, "special-attack": 81, "special-defense": 76, "speed": 50}}

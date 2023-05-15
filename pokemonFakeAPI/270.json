@@ -1,1 +1,1 @@
-{"id": 270, "name": "lotad", "height": 5, "weight": 26, "species": "https://pokeapi.co/api/v2/pokemon-species/270/", "stats": {"hp": 40, "attack": 30, "defense": 30, "special-attack": 40, "special-defense": 50, "speed": 30}}
+{"id": 270, "name": "lotad", "height": 5, "weight": 26, "base_experience": 44, "species_url": "https://pokeapi.co/api/v2/pokemon-species/270/", "stats": {"hp": 40, "attack": 30, "defense": 30, "special-attack": 40, "special-defense": 50, "speed": 30}}

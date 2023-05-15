@@ -1,1 +1,1 @@
-{"id": 752, "name": "araquanid", "height": 18, "weight": 820, "species": "https://pokeapi.co/api/v2/pokemon-species/752/", "stats": {"hp": 68, "attack": 70, "defense": 92, "special-attack": 50, "special-defense": 132, "speed": 42}}
+{"id": 752, "name": "araquanid", "height": 18, "weight": 820, "base_experience": 159, "species_url": "https://pokeapi.co/api/v2/pokemon-species/752/", "stats": {"hp": 68, "attack": 70, "defense": 92, "special-attack": 50, "special-defense": 132, "speed": 42}}

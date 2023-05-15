@@ -1,1 +1,1 @@
-{"id": 939, "name": "bellibolt", "height": 12, "weight": 1130, "species": "https://pokeapi.co/api/v2/pokemon-species/939/", "stats": {"hp": 109, "attack": 64, "defense": 91, "special-attack": 103, "special-defense": 83, "speed": 45}}
+{"id": 939, "name": "bellibolt", "height": 12, "weight": 1130, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/939/", "stats": {"hp": 109, "attack": 64, "defense": 91, "special-attack": 103, "special-defense": 83, "speed": 45}}

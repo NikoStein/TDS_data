@@ -1,1 +1,1 @@
-{"id": 10, "name": "caterpie", "height": 3, "weight": 29, "species": "https://pokeapi.co/api/v2/pokemon-species/10/", "stats": {"hp": 45, "attack": 30, "defense": 35, "special-attack": 20, "special-defense": 20, "speed": 45}}
+{"id": 10, "name": "caterpie", "height": 3, "weight": 29, "base_experience": 39, "species_url": "https://pokeapi.co/api/v2/pokemon-species/10/", "stats": {"hp": 45, "attack": 30, "defense": 35, "special-attack": 20, "special-defense": 20, "speed": 45}}

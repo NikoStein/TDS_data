@@ -1,1 +1,1 @@
-{"id": 467, "name": "magmortar", "height": 16, "weight": 680, "species": "https://pokeapi.co/api/v2/pokemon-species/467/", "stats": {"hp": 75, "attack": 95, "defense": 67, "special-attack": 125, "special-defense": 95, "speed": 83}}
+{"id": 467, "name": "magmortar", "height": 16, "weight": 680, "base_experience": 270, "species_url": "https://pokeapi.co/api/v2/pokemon-species/467/", "stats": {"hp": 75, "attack": 95, "defense": 67, "special-attack": 125, "special-defense": 95, "speed": 83}}

@@ -1,1 +1,1 @@
-{"id": 426, "name": "drifblim", "height": 12, "weight": 150, "species": "https://pokeapi.co/api/v2/pokemon-species/426/", "stats": {"hp": 150, "attack": 80, "defense": 44, "special-attack": 90, "special-defense": 54, "speed": 80}}
+{"id": 426, "name": "drifblim", "height": 12, "weight": 150, "base_experience": 174, "species_url": "https://pokeapi.co/api/v2/pokemon-species/426/", "stats": {"hp": 150, "attack": 80, "defense": 44, "special-attack": 90, "special-defense": 54, "speed": 80}}

@@ -1,1 +1,1 @@
-{"id": 226, "name": "mantine", "height": 21, "weight": 2200, "species": "https://pokeapi.co/api/v2/pokemon-species/226/", "stats": {"hp": 85, "attack": 40, "defense": 70, "special-attack": 80, "special-defense": 140, "speed": 70}}
+{"id": 226, "name": "mantine", "height": 21, "weight": 2200, "base_experience": 170, "species_url": "https://pokeapi.co/api/v2/pokemon-species/226/", "stats": {"hp": 85, "attack": 40, "defense": 70, "special-attack": 80, "special-defense": 140, "speed": 70}}

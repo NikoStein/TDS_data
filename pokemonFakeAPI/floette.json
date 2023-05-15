@@ -1,1 +1,1 @@
-{"id": 670, "name": "floette", "height": 2, "weight": 9, "species": "https://pokeapi.co/api/v2/pokemon-species/670/", "stats": {"hp": 54, "attack": 45, "defense": 47, "special-attack": 75, "special-defense": 98, "speed": 52}}
+{"id": 670, "name": "floette", "height": 2, "weight": 9, "base_experience": 130, "species_url": "https://pokeapi.co/api/v2/pokemon-species/670/", "stats": {"hp": 54, "attack": 45, "defense": 47, "special-attack": 75, "special-defense": 98, "speed": 52}}

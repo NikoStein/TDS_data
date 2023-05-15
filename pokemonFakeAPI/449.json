@@ -1,1 +1,1 @@
-{"id": 449, "name": "hippopotas", "height": 8, "weight": 495, "species": "https://pokeapi.co/api/v2/pokemon-species/449/", "stats": {"hp": 68, "attack": 72, "defense": 78, "special-attack": 38, "special-defense": 42, "speed": 32}}
+{"id": 449, "name": "hippopotas", "height": 8, "weight": 495, "base_experience": 66, "species_url": "https://pokeapi.co/api/v2/pokemon-species/449/", "stats": {"hp": 68, "attack": 72, "defense": 78, "special-attack": 38, "special-defense": 42, "speed": 32}}

@@ -1,1 +1,1 @@
-{"id": 304, "name": "aron", "height": 4, "weight": 600, "species": "https://pokeapi.co/api/v2/pokemon-species/304/", "stats": {"hp": 50, "attack": 70, "defense": 100, "special-attack": 40, "special-defense": 40, "speed": 30}}
+{"id": 304, "name": "aron", "height": 4, "weight": 600, "base_experience": 66, "species_url": "https://pokeapi.co/api/v2/pokemon-species/304/", "stats": {"hp": 50, "attack": 70, "defense": 100, "special-attack": 40, "special-defense": 40, "speed": 30}}

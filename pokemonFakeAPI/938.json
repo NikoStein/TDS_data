@@ -1,1 +1,1 @@
-{"id": 938, "name": "tadbulb", "height": 3, "weight": 4, "species": "https://pokeapi.co/api/v2/pokemon-species/938/", "stats": {"hp": 61, "attack": 31, "defense": 41, "special-attack": 59, "special-defense": 35, "speed": 45}}
+{"id": 938, "name": "tadbulb", "height": 3, "weight": 4, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/938/", "stats": {"hp": 61, "attack": 31, "defense": 41, "special-attack": 59, "special-defense": 35, "speed": 45}}

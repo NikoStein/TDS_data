@@ -1,1 +1,1 @@
-{"id": 468, "name": "togekiss", "height": 15, "weight": 380, "species": "https://pokeapi.co/api/v2/pokemon-species/468/", "stats": {"hp": 85, "attack": 50, "defense": 95, "special-attack": 120, "special-defense": 115, "speed": 80}}
+{"id": 468, "name": "togekiss", "height": 15, "weight": 380, "base_experience": 273, "species_url": "https://pokeapi.co/api/v2/pokemon-species/468/", "stats": {"hp": 85, "attack": 50, "defense": 95, "special-attack": 120, "special-defense": 115, "speed": 80}}

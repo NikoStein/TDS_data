@@ -1,1 +1,1 @@
-{"id": 88, "name": "grimer", "height": 9, "weight": 300, "species": "https://pokeapi.co/api/v2/pokemon-species/88/", "stats": {"hp": 80, "attack": 80, "defense": 50, "special-attack": 40, "special-defense": 50, "speed": 25}}
+{"id": 88, "name": "grimer", "height": 9, "weight": 300, "base_experience": 65, "species_url": "https://pokeapi.co/api/v2/pokemon-species/88/", "stats": {"hp": 80, "attack": 80, "defense": 50, "special-attack": 40, "special-defense": 50, "speed": 25}}

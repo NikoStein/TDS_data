@@ -1,1 +1,1 @@
-{"id": 686, "name": "inkay", "height": 4, "weight": 35, "species": "https://pokeapi.co/api/v2/pokemon-species/686/", "stats": {"hp": 53, "attack": 54, "defense": 53, "special-attack": 37, "special-defense": 46, "speed": 45}}
+{"id": 686, "name": "inkay", "height": 4, "weight": 35, "base_experience": 58, "species_url": "https://pokeapi.co/api/v2/pokemon-species/686/", "stats": {"hp": 53, "attack": 54, "defense": 53, "special-attack": 37, "special-defense": 46, "speed": 45}}

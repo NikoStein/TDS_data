@@ -1,1 +1,1 @@
-{"id": 10150, "name": "ribombee-totem", "height": 4, "weight": 20, "species": "https://pokeapi.co/api/v2/pokemon-species/743/", "stats": {"hp": 60, "attack": 55, "defense": 60, "special-attack": 95, "special-defense": 70, "speed": 124}}
+{"id": 10150, "name": "ribombee-totem", "height": 4, "weight": 20, "base_experience": 162, "species_url": "https://pokeapi.co/api/v2/pokemon-species/743/", "stats": {"hp": 60, "attack": 55, "defense": 60, "special-attack": 95, "special-defense": 70, "speed": 124}}

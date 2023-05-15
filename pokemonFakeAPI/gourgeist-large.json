@@ -1,1 +1,1 @@
-{"id": 10031, "name": "gourgeist-large", "height": 11, "weight": 140, "species": "https://pokeapi.co/api/v2/pokemon-species/711/", "stats": {"hp": 75, "attack": 95, "defense": 122, "special-attack": 58, "special-defense": 75, "speed": 69}}
+{"id": 10031, "name": "gourgeist-large", "height": 11, "weight": 140, "base_experience": 173, "species_url": "https://pokeapi.co/api/v2/pokemon-species/711/", "stats": {"hp": 75, "attack": 95, "defense": 122, "special-attack": 58, "special-defense": 75, "speed": 69}}

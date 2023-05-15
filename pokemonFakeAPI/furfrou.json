@@ -1,1 +1,1 @@
-{"id": 676, "name": "furfrou", "height": 12, "weight": 280, "species": "https://pokeapi.co/api/v2/pokemon-species/676/", "stats": {"hp": 75, "attack": 80, "defense": 60, "special-attack": 65, "special-defense": 90, "speed": 102}}
+{"id": 676, "name": "furfrou", "height": 12, "weight": 280, "base_experience": 165, "species_url": "https://pokeapi.co/api/v2/pokemon-species/676/", "stats": {"hp": 75, "attack": 80, "defense": 60, "special-attack": 65, "special-defense": 90, "speed": 102}}

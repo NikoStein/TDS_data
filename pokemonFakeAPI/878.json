@@ -1,1 +1,1 @@
-{"id": 878, "name": "cufant", "height": 12, "weight": 1000, "species": "https://pokeapi.co/api/v2/pokemon-species/878/", "stats": {"hp": 72, "attack": 80, "defense": 49, "special-attack": 40, "special-defense": 49, "speed": 40}}
+{"id": 878, "name": "cufant", "height": 12, "weight": 1000, "base_experience": 66, "species_url": "https://pokeapi.co/api/v2/pokemon-species/878/", "stats": {"hp": 72, "attack": 80, "defense": 49, "special-attack": 40, "special-defense": 49, "speed": 40}}

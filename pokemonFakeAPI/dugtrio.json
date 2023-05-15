@@ -1,1 +1,1 @@
-{"id": 51, "name": "dugtrio", "height": 7, "weight": 333, "species": "https://pokeapi.co/api/v2/pokemon-species/51/", "stats": {"hp": 35, "attack": 100, "defense": 50, "special-attack": 50, "special-defense": 70, "speed": 120}}
+{"id": 51, "name": "dugtrio", "height": 7, "weight": 333, "base_experience": 149, "species_url": "https://pokeapi.co/api/v2/pokemon-species/51/", "stats": {"hp": 35, "attack": 100, "defense": 50, "special-attack": 50, "special-defense": 70, "speed": 120}}

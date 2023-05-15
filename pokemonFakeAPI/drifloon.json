@@ -1,1 +1,1 @@
-{"id": 425, "name": "drifloon", "height": 4, "weight": 12, "species": "https://pokeapi.co/api/v2/pokemon-species/425/", "stats": {"hp": 90, "attack": 50, "defense": 34, "special-attack": 60, "special-defense": 44, "speed": 70}}
+{"id": 425, "name": "drifloon", "height": 4, "weight": 12, "base_experience": 70, "species_url": "https://pokeapi.co/api/v2/pokemon-species/425/", "stats": {"hp": 90, "attack": 50, "defense": 34, "special-attack": 60, "special-defense": 44, "speed": 70}}

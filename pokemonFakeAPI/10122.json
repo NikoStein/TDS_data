@@ -1,1 +1,1 @@
-{"id": 10122, "name": "vikavolt-totem", "height": 26, "weight": 1475, "species": "https://pokeapi.co/api/v2/pokemon-species/738/", "stats": {"hp": 77, "attack": 70, "defense": 90, "special-attack": 145, "special-defense": 75, "speed": 43}}
+{"id": 10122, "name": "vikavolt-totem", "height": 26, "weight": 1475, "base_experience": 225, "species_url": "https://pokeapi.co/api/v2/pokemon-species/738/", "stats": {"hp": 77, "attack": 70, "defense": 90, "special-attack": 145, "special-defense": 75, "speed": 43}}

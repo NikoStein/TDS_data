@@ -1,1 +1,1 @@
-{"id": 326, "name": "grumpig", "height": 9, "weight": 715, "species": "https://pokeapi.co/api/v2/pokemon-species/326/", "stats": {"hp": 80, "attack": 45, "defense": 65, "special-attack": 90, "special-defense": 110, "speed": 80}}
+{"id": 326, "name": "grumpig", "height": 9, "weight": 715, "base_experience": 165, "species_url": "https://pokeapi.co/api/v2/pokemon-species/326/", "stats": {"hp": 80, "attack": 45, "defense": 65, "special-attack": 90, "special-defense": 110, "speed": 80}}

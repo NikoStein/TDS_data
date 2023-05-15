@@ -1,1 +1,1 @@
-{"id": 920, "name": "lokix", "height": 10, "weight": 175, "species": "https://pokeapi.co/api/v2/pokemon-species/920/", "stats": {"hp": 71, "attack": 102, "defense": 78, "special-attack": 52, "special-defense": 55, "speed": 92}}
+{"id": 920, "name": "lokix", "height": 10, "weight": 175, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/920/", "stats": {"hp": 71, "attack": 102, "defense": 78, "special-attack": 52, "special-defense": 55, "speed": 92}}

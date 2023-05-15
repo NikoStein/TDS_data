@@ -1,1 +1,1 @@
-{"id": 982, "name": "dudunsparce", "height": 36, "weight": 392, "species": "https://pokeapi.co/api/v2/pokemon-species/982/", "stats": {"hp": 125, "attack": 100, "defense": 80, "special-attack": 85, "special-defense": 75, "speed": 55}}
+{"id": 982, "name": "dudunsparce", "height": 36, "weight": 392, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/982/", "stats": {"hp": 125, "attack": 100, "defense": 80, "special-attack": 85, "special-defense": 75, "speed": 55}}

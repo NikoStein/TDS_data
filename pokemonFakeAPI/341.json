@@ -1,1 +1,1 @@
-{"id": 341, "name": "corphish", "height": 6, "weight": 115, "species": "https://pokeapi.co/api/v2/pokemon-species/341/", "stats": {"hp": 43, "attack": 80, "defense": 65, "special-attack": 50, "special-defense": 35, "speed": 35}}
+{"id": 341, "name": "corphish", "height": 6, "weight": 115, "base_experience": 62, "species_url": "https://pokeapi.co/api/v2/pokemon-species/341/", "stats": {"hp": 43, "attack": 80, "defense": 65, "special-attack": 50, "special-defense": 35, "speed": 35}}

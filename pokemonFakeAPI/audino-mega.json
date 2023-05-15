@@ -1,1 +1,1 @@
-{"id": 10069, "name": "audino-mega", "height": 15, "weight": 320, "species": "https://pokeapi.co/api/v2/pokemon-species/531/", "stats": {"hp": 103, "attack": 60, "defense": 126, "special-attack": 80, "special-defense": 126, "speed": 50}}
+{"id": 10069, "name": "audino-mega", "height": 15, "weight": 320, "base_experience": 425, "species_url": "https://pokeapi.co/api/v2/pokemon-species/531/", "stats": {"hp": 103, "attack": 60, "defense": 126, "special-attack": 80, "special-defense": 126, "speed": 50}}

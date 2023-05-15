@@ -1,1 +1,1 @@
-{"id": 10188, "name": "zacian-crowned", "height": 28, "weight": 3550, "species": "https://pokeapi.co/api/v2/pokemon-species/888/", "stats": {"hp": 92, "attack": 170, "defense": 115, "special-attack": 80, "special-defense": 115, "speed": 148}}
+{"id": 10188, "name": "zacian-crowned", "height": 28, "weight": 3550, "base_experience": 360, "species_url": "https://pokeapi.co/api/v2/pokemon-species/888/", "stats": {"hp": 92, "attack": 170, "defense": 115, "special-attack": 80, "special-defense": 115, "speed": 148}}

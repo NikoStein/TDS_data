@@ -1,1 +1,1 @@
-{"id": 407, "name": "roserade", "height": 9, "weight": 145, "species": "https://pokeapi.co/api/v2/pokemon-species/407/", "stats": {"hp": 60, "attack": 70, "defense": 65, "special-attack": 125, "special-defense": 105, "speed": 90}}
+{"id": 407, "name": "roserade", "height": 9, "weight": 145, "base_experience": 258, "species_url": "https://pokeapi.co/api/v2/pokemon-species/407/", "stats": {"hp": 60, "attack": 70, "defense": 65, "special-attack": 125, "special-defense": 105, "speed": 90}}

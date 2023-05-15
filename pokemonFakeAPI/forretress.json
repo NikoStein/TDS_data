@@ -1,1 +1,1 @@
-{"id": 205, "name": "forretress", "height": 12, "weight": 1258, "species": "https://pokeapi.co/api/v2/pokemon-species/205/", "stats": {"hp": 75, "attack": 90, "defense": 140, "special-attack": 60, "special-defense": 60, "speed": 40}}
+{"id": 205, "name": "forretress", "height": 12, "weight": 1258, "base_experience": 163, "species_url": "https://pokeapi.co/api/v2/pokemon-species/205/", "stats": {"hp": 75, "attack": 90, "defense": 140, "special-attack": 60, "special-defense": 60, "speed": 40}}

@@ -1,1 +1,1 @@
-{"id": 731, "name": "pikipek", "height": 3, "weight": 12, "species": "https://pokeapi.co/api/v2/pokemon-species/731/", "stats": {"hp": 35, "attack": 75, "defense": 30, "special-attack": 30, "special-defense": 30, "speed": 65}}
+{"id": 731, "name": "pikipek", "height": 3, "weight": 12, "base_experience": 53, "species_url": "https://pokeapi.co/api/v2/pokemon-species/731/", "stats": {"hp": 35, "attack": 75, "defense": 30, "special-attack": 30, "special-defense": 30, "speed": 65}}

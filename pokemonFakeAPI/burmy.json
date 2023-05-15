@@ -1,1 +1,1 @@
-{"id": 412, "name": "burmy", "height": 2, "weight": 34, "species": "https://pokeapi.co/api/v2/pokemon-species/412/", "stats": {"hp": 40, "attack": 29, "defense": 45, "special-attack": 29, "special-defense": 45, "speed": 36}}
+{"id": 412, "name": "burmy", "height": 2, "weight": 34, "base_experience": 45, "species_url": "https://pokeapi.co/api/v2/pokemon-species/412/", "stats": {"hp": 40, "attack": 29, "defense": 45, "special-attack": 29, "special-defense": 45, "speed": 36}}

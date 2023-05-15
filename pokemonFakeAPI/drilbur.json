@@ -1,1 +1,1 @@
-{"id": 529, "name": "drilbur", "height": 3, "weight": 85, "species": "https://pokeapi.co/api/v2/pokemon-species/529/", "stats": {"hp": 60, "attack": 85, "defense": 40, "special-attack": 30, "special-defense": 45, "speed": 68}}
+{"id": 529, "name": "drilbur", "height": 3, "weight": 85, "base_experience": 66, "species_url": "https://pokeapi.co/api/v2/pokemon-species/529/", "stats": {"hp": 60, "attack": 85, "defense": 40, "special-attack": 30, "special-defense": 45, "speed": 68}}

@@ -1,1 +1,1 @@
-{"id": 476, "name": "probopass", "height": 14, "weight": 3400, "species": "https://pokeapi.co/api/v2/pokemon-species/476/", "stats": {"hp": 60, "attack": 55, "defense": 145, "special-attack": 75, "special-defense": 150, "speed": 40}}
+{"id": 476, "name": "probopass", "height": 14, "weight": 3400, "base_experience": 184, "species_url": "https://pokeapi.co/api/v2/pokemon-species/476/", "stats": {"hp": 60, "attack": 55, "defense": 145, "special-attack": 75, "special-defense": 150, "speed": 40}}

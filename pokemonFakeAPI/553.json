@@ -1,1 +1,1 @@
-{"id": 553, "name": "krookodile", "height": 15, "weight": 963, "species": "https://pokeapi.co/api/v2/pokemon-species/553/", "stats": {"hp": 95, "attack": 117, "defense": 80, "special-attack": 65, "special-defense": 70, "speed": 92}}
+{"id": 553, "name": "krookodile", "height": 15, "weight": 963, "base_experience": 260, "species_url": "https://pokeapi.co/api/v2/pokemon-species/553/", "stats": {"hp": 95, "attack": 117, "defense": 80, "special-attack": 65, "special-defense": 70, "speed": 92}}

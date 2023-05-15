@@ -1,1 +1,1 @@
-{"id": 932, "name": "nacli", "height": 4, "weight": 160, "species": "https://pokeapi.co/api/v2/pokemon-species/932/", "stats": {"hp": 55, "attack": 55, "defense": 75, "special-attack": 35, "special-defense": 35, "speed": 25}}
+{"id": 932, "name": "nacli", "height": 4, "weight": 160, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/932/", "stats": {"hp": 55, "attack": 55, "defense": 75, "special-attack": 35, "special-defense": 35, "speed": 25}}

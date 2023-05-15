@@ -1,1 +1,1 @@
-{"id": 758, "name": "salazzle", "height": 12, "weight": 222, "species": "https://pokeapi.co/api/v2/pokemon-species/758/", "stats": {"hp": 68, "attack": 64, "defense": 60, "special-attack": 111, "special-defense": 60, "speed": 117}}
+{"id": 758, "name": "salazzle", "height": 12, "weight": 222, "base_experience": 168, "species_url": "https://pokeapi.co/api/v2/pokemon-species/758/", "stats": {"hp": 68, "attack": 64, "defense": 60, "special-attack": 111, "special-defense": 60, "speed": 117}}

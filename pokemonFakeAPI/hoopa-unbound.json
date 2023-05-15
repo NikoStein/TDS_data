@@ -1,1 +1,1 @@
-{"id": 10086, "name": "hoopa-unbound", "height": 65, "weight": 4900, "species": "https://pokeapi.co/api/v2/pokemon-species/720/", "stats": {"hp": 80, "attack": 160, "defense": 60, "special-attack": 170, "special-defense": 130, "speed": 80}}
+{"id": 10086, "name": "hoopa-unbound", "height": 65, "weight": 4900, "base_experience": 306, "species_url": "https://pokeapi.co/api/v2/pokemon-species/720/", "stats": {"hp": 80, "attack": 160, "defense": 60, "special-attack": 170, "special-defense": 130, "speed": 80}}

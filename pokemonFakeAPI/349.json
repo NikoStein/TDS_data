@@ -1,1 +1,1 @@
-{"id": 349, "name": "feebas", "height": 6, "weight": 74, "species": "https://pokeapi.co/api/v2/pokemon-species/349/", "stats": {"hp": 20, "attack": 15, "defense": 20, "special-attack": 10, "special-defense": 55, "speed": 80}}
+{"id": 349, "name": "feebas", "height": 6, "weight": 74, "base_experience": 40, "species_url": "https://pokeapi.co/api/v2/pokemon-species/349/", "stats": {"hp": 20, "attack": 15, "defense": 20, "special-attack": 10, "special-defense": 55, "speed": 80}}

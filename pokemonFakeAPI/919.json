@@ -1,1 +1,1 @@
-{"id": 919, "name": "nymble", "height": 2, "weight": 10, "species": "https://pokeapi.co/api/v2/pokemon-species/919/", "stats": {"hp": 33, "attack": 46, "defense": 40, "special-attack": 21, "special-defense": 25, "speed": 45}}
+{"id": 919, "name": "nymble", "height": 2, "weight": 10, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/919/", "stats": {"hp": 33, "attack": 46, "defense": 40, "special-attack": 21, "special-defense": 25, "speed": 45}}

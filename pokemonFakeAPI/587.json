@@ -1,1 +1,1 @@
-{"id": 587, "name": "emolga", "height": 4, "weight": 50, "species": "https://pokeapi.co/api/v2/pokemon-species/587/", "stats": {"hp": 55, "attack": 75, "defense": 60, "special-attack": 75, "special-defense": 60, "speed": 103}}
+{"id": 587, "name": "emolga", "height": 4, "weight": 50, "base_experience": 150, "species_url": "https://pokeapi.co/api/v2/pokemon-species/587/", "stats": {"hp": 55, "attack": 75, "defense": 60, "special-attack": 75, "special-defense": 60, "speed": 103}}

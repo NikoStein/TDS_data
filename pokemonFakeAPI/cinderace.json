@@ -1,1 +1,1 @@
-{"id": 815, "name": "cinderace", "height": 14, "weight": 330, "species": "https://pokeapi.co/api/v2/pokemon-species/815/", "stats": {"hp": 80, "attack": 116, "defense": 75, "special-attack": 65, "special-defense": 75, "speed": 119}}
+{"id": 815, "name": "cinderace", "height": 14, "weight": 330, "base_experience": 265, "species_url": "https://pokeapi.co/api/v2/pokemon-species/815/", "stats": {"hp": 80, "attack": 116, "defense": 75, "special-attack": 65, "special-defense": 75, "speed": 119}}

@@ -1,1 +1,1 @@
-{"id": 10156, "name": "necrozma-dawn", "height": 42, "weight": 3500, "species": "https://pokeapi.co/api/v2/pokemon-species/800/", "stats": {"hp": 97, "attack": 113, "defense": 109, "special-attack": 157, "special-defense": 127, "speed": 77}}
+{"id": 10156, "name": "necrozma-dawn", "height": 42, "weight": 3500, "base_experience": 340, "species_url": "https://pokeapi.co/api/v2/pokemon-species/800/", "stats": {"hp": 97, "attack": 113, "defense": 109, "special-attack": 157, "special-defense": 127, "speed": 77}}

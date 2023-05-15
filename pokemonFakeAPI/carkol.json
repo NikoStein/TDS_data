@@ -1,1 +1,1 @@
-{"id": 838, "name": "carkol", "height": 11, "weight": 780, "species": "https://pokeapi.co/api/v2/pokemon-species/838/", "stats": {"hp": 80, "attack": 60, "defense": 90, "special-attack": 60, "special-defense": 70, "speed": 50}}
+{"id": 838, "name": "carkol", "height": 11, "weight": 780, "base_experience": 144, "species_url": "https://pokeapi.co/api/v2/pokemon-species/838/", "stats": {"hp": 80, "attack": 60, "defense": 90, "special-attack": 60, "special-defense": 70, "speed": 50}}

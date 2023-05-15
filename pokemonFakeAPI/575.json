@@ -1,1 +1,1 @@
-{"id": 575, "name": "gothorita", "height": 7, "weight": 180, "species": "https://pokeapi.co/api/v2/pokemon-species/575/", "stats": {"hp": 60, "attack": 45, "defense": 70, "special-attack": 75, "special-defense": 85, "speed": 55}}
+{"id": 575, "name": "gothorita", "height": 7, "weight": 180, "base_experience": 137, "species_url": "https://pokeapi.co/api/v2/pokemon-species/575/", "stats": {"hp": 60, "attack": 45, "defense": 70, "special-attack": 75, "special-defense": 85, "speed": 55}}

@@ -1,1 +1,1 @@
-{"id": 954, "name": "rabsca", "height": 3, "weight": 35, "species": "https://pokeapi.co/api/v2/pokemon-species/954/", "stats": {"hp": 75, "attack": 50, "defense": 85, "special-attack": 115, "special-defense": 100, "speed": 45}}
+{"id": 954, "name": "rabsca", "height": 3, "weight": 35, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/954/", "stats": {"hp": 75, "attack": 50, "defense": 85, "special-attack": 115, "special-defense": 100, "speed": 45}}

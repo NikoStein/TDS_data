@@ -1,1 +1,1 @@
-{"id": 185, "name": "sudowoodo", "height": 12, "weight": 380, "species": "https://pokeapi.co/api/v2/pokemon-species/185/", "stats": {"hp": 70, "attack": 100, "defense": 115, "special-attack": 30, "special-defense": 65, "speed": 30}}
+{"id": 185, "name": "sudowoodo", "height": 12, "weight": 380, "base_experience": 144, "species_url": "https://pokeapi.co/api/v2/pokemon-species/185/", "stats": {"hp": 70, "attack": 100, "defense": 115, "special-attack": 30, "special-defense": 65, "speed": 30}}

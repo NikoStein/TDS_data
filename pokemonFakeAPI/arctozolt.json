@@ -1,1 +1,1 @@
-{"id": 881, "name": "arctozolt", "height": 23, "weight": 1500, "species": "https://pokeapi.co/api/v2/pokemon-species/881/", "stats": {"hp": 90, "attack": 100, "defense": 90, "special-attack": 90, "special-defense": 80, "speed": 55}}
+{"id": 881, "name": "arctozolt", "height": 23, "weight": 1500, "base_experience": 177, "species_url": "https://pokeapi.co/api/v2/pokemon-species/881/", "stats": {"hp": 90, "attack": 100, "defense": 90, "special-attack": 90, "special-defense": 80, "speed": 55}}

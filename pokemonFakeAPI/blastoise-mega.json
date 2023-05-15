@@ -1,1 +1,1 @@
-{"id": 10036, "name": "blastoise-mega", "height": 16, "weight": 1011, "species": "https://pokeapi.co/api/v2/pokemon-species/9/", "stats": {"hp": 79, "attack": 103, "defense": 120, "special-attack": 135, "special-defense": 115, "speed": 78}}
+{"id": 10036, "name": "blastoise-mega", "height": 16, "weight": 1011, "base_experience": 284, "species_url": "https://pokeapi.co/api/v2/pokemon-species/9/", "stats": {"hp": 79, "attack": 103, "defense": 120, "special-attack": 135, "special-defense": 115, "speed": 78}}

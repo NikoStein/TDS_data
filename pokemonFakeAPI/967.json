@@ -1,1 +1,1 @@
-{"id": 967, "name": "cyclizar", "height": 16, "weight": 630, "species": "https://pokeapi.co/api/v2/pokemon-species/967/", "stats": {"hp": 70, "attack": 95, "defense": 65, "special-attack": 85, "special-defense": 65, "speed": 121}}
+{"id": 967, "name": "cyclizar", "height": 16, "weight": 630, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/967/", "stats": {"hp": 70, "attack": 95, "defense": 65, "special-attack": 85, "special-defense": 65, "speed": 121}}

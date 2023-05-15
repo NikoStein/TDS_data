@@ -1,1 +1,1 @@
-{"id": 170, "name": "chinchou", "height": 5, "weight": 120, "species": "https://pokeapi.co/api/v2/pokemon-species/170/", "stats": {"hp": 75, "attack": 38, "defense": 38, "special-attack": 56, "special-defense": 56, "speed": 67}}
+{"id": 170, "name": "chinchou", "height": 5, "weight": 120, "base_experience": 66, "species_url": "https://pokeapi.co/api/v2/pokemon-species/170/", "stats": {"hp": 75, "attack": 38, "defense": 38, "special-attack": 56, "special-defense": 56, "speed": 67}}

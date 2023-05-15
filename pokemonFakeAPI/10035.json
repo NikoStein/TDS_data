@@ -1,1 +1,1 @@
-{"id": 10035, "name": "charizard-mega-y", "height": 17, "weight": 1005, "species": "https://pokeapi.co/api/v2/pokemon-species/6/", "stats": {"hp": 78, "attack": 104, "defense": 78, "special-attack": 159, "special-defense": 115, "speed": 100}}
+{"id": 10035, "name": "charizard-mega-y", "height": 17, "weight": 1005, "base_experience": 285, "species_url": "https://pokeapi.co/api/v2/pokemon-species/6/", "stats": {"hp": 78, "attack": 104, "defense": 78, "special-attack": 159, "special-defense": 115, "speed": 100}}

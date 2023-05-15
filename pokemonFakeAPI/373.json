@@ -1,1 +1,1 @@
-{"id": 373, "name": "salamence", "height": 15, "weight": 1026, "species": "https://pokeapi.co/api/v2/pokemon-species/373/", "stats": {"hp": 95, "attack": 135, "defense": 80, "special-attack": 110, "special-defense": 80, "speed": 100}}
+{"id": 373, "name": "salamence", "height": 15, "weight": 1026, "base_experience": 300, "species_url": "https://pokeapi.co/api/v2/pokemon-species/373/", "stats": {"hp": 95, "attack": 135, "defense": 80, "special-attack": 110, "special-defense": 80, "speed": 100}}

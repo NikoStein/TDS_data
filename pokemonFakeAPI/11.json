@@ -1,1 +1,1 @@
-{"id": 11, "name": "metapod", "height": 7, "weight": 99, "species": "https://pokeapi.co/api/v2/pokemon-species/11/", "stats": {"hp": 50, "attack": 20, "defense": 55, "special-attack": 25, "special-defense": 25, "speed": 30}}
+{"id": 11, "name": "metapod", "height": 7, "weight": 99, "base_experience": 72, "species_url": "https://pokeapi.co/api/v2/pokemon-species/11/", "stats": {"hp": 50, "attack": 20, "defense": 55, "special-attack": 25, "special-defense": 25, "speed": 30}}

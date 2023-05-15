@@ -1,1 +1,1 @@
-{"id": 964, "name": "palafin", "height": 13, "weight": 602, "species": "https://pokeapi.co/api/v2/pokemon-species/964/", "stats": {"hp": 100, "attack": 70, "defense": 72, "special-attack": 53, "special-defense": 62, "speed": 100}}
+{"id": 964, "name": "palafin", "height": 13, "weight": 602, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/964/", "stats": {"hp": 100, "attack": 70, "defense": 72, "special-attack": 53, "special-defense": 62, "speed": 100}}

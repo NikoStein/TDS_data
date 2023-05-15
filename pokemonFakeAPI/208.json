@@ -1,1 +1,1 @@
-{"id": 208, "name": "steelix", "height": 92, "weight": 4000, "species": "https://pokeapi.co/api/v2/pokemon-species/208/", "stats": {"hp": 75, "attack": 85, "defense": 200, "special-attack": 55, "special-defense": 65, "speed": 30}}
+{"id": 208, "name": "steelix", "height": 92, "weight": 4000, "base_experience": 179, "species_url": "https://pokeapi.co/api/v2/pokemon-species/208/", "stats": {"hp": 75, "attack": 85, "defense": 200, "special-attack": 55, "special-defense": 65, "speed": 30}}

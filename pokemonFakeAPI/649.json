@@ -1,1 +1,1 @@
-{"id": 649, "name": "genesect", "height": 15, "weight": 825, "species": "https://pokeapi.co/api/v2/pokemon-species/649/", "stats": {"hp": 71, "attack": 120, "defense": 95, "special-attack": 120, "special-defense": 95, "speed": 99}}
+{"id": 649, "name": "genesect", "height": 15, "weight": 825, "base_experience": 300, "species_url": "https://pokeapi.co/api/v2/pokemon-species/649/", "stats": {"hp": 71, "attack": 120, "defense": 95, "special-attack": 120, "special-defense": 95, "speed": 99}}

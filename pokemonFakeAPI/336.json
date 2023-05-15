@@ -1,1 +1,1 @@
-{"id": 336, "name": "seviper", "height": 27, "weight": 525, "species": "https://pokeapi.co/api/v2/pokemon-species/336/", "stats": {"hp": 73, "attack": 100, "defense": 60, "special-attack": 100, "special-defense": 60, "speed": 65}}
+{"id": 336, "name": "seviper", "height": 27, "weight": 525, "base_experience": 160, "species_url": "https://pokeapi.co/api/v2/pokemon-species/336/", "stats": {"hp": 73, "attack": 100, "defense": 60, "special-attack": 100, "special-defense": 60, "speed": 65}}

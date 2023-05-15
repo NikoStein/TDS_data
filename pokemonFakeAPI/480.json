@@ -1,1 +1,1 @@
-{"id": 480, "name": "uxie", "height": 3, "weight": 3, "species": "https://pokeapi.co/api/v2/pokemon-species/480/", "stats": {"hp": 75, "attack": 75, "defense": 130, "special-attack": 75, "special-defense": 130, "speed": 95}}
+{"id": 480, "name": "uxie", "height": 3, "weight": 3, "base_experience": 290, "species_url": "https://pokeapi.co/api/v2/pokemon-species/480/", "stats": {"hp": 75, "attack": 75, "defense": 130, "special-attack": 75, "special-defense": 130, "speed": 95}}

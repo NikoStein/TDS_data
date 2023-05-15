@@ -1,1 +1,1 @@
-{"id": 460, "name": "abomasnow", "height": 22, "weight": 1355, "species": "https://pokeapi.co/api/v2/pokemon-species/460/", "stats": {"hp": 90, "attack": 92, "defense": 75, "special-attack": 92, "special-defense": 85, "speed": 60}}
+{"id": 460, "name": "abomasnow", "height": 22, "weight": 1355, "base_experience": 173, "species_url": "https://pokeapi.co/api/v2/pokemon-species/460/", "stats": {"hp": 90, "attack": 92, "defense": 75, "special-attack": 92, "special-defense": 85, "speed": 60}}

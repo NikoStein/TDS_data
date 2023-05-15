@@ -1,1 +1,1 @@
-{"id": 390, "name": "chimchar", "height": 5, "weight": 62, "species": "https://pokeapi.co/api/v2/pokemon-species/390/", "stats": {"hp": 44, "attack": 58, "defense": 44, "special-attack": 58, "special-defense": 44, "speed": 61}}
+{"id": 390, "name": "chimchar", "height": 5, "weight": 62, "base_experience": 62, "species_url": "https://pokeapi.co/api/v2/pokemon-species/390/", "stats": {"hp": 44, "attack": 58, "defense": 44, "special-attack": 58, "special-defense": 44, "speed": 61}}

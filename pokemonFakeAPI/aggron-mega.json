@@ -1,1 +1,1 @@
-{"id": 10053, "name": "aggron-mega", "height": 22, "weight": 3950, "species": "https://pokeapi.co/api/v2/pokemon-species/306/", "stats": {"hp": 70, "attack": 140, "defense": 230, "special-attack": 60, "special-defense": 80, "speed": 50}}
+{"id": 10053, "name": "aggron-mega", "height": 22, "weight": 3950, "base_experience": 284, "species_url": "https://pokeapi.co/api/v2/pokemon-species/306/", "stats": {"hp": 70, "attack": 140, "defense": 230, "special-attack": 60, "special-defense": 80, "speed": 50}}

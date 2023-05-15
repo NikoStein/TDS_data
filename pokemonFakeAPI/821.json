@@ -1,1 +1,1 @@
-{"id": 821, "name": "rookidee", "height": 2, "weight": 18, "species": "https://pokeapi.co/api/v2/pokemon-species/821/", "stats": {"hp": 38, "attack": 47, "defense": 35, "special-attack": 33, "special-defense": 35, "speed": 57}}
+{"id": 821, "name": "rookidee", "height": 2, "weight": 18, "base_experience": 49, "species_url": "https://pokeapi.co/api/v2/pokemon-species/821/", "stats": {"hp": 38, "attack": 47, "defense": 35, "special-attack": 33, "special-defense": 35, "speed": 57}}

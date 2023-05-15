@@ -1,1 +1,1 @@
-{"id": 630, "name": "mandibuzz", "height": 12, "weight": 395, "species": "https://pokeapi.co/api/v2/pokemon-species/630/", "stats": {"hp": 110, "attack": 65, "defense": 105, "special-attack": 55, "special-defense": 95, "speed": 80}}
+{"id": 630, "name": "mandibuzz", "height": 12, "weight": 395, "base_experience": 179, "species_url": "https://pokeapi.co/api/v2/pokemon-species/630/", "stats": {"hp": 110, "attack": 65, "defense": 105, "special-attack": 55, "special-defense": 95, "speed": 80}}

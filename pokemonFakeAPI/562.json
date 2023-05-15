@@ -1,1 +1,1 @@
-{"id": 562, "name": "yamask", "height": 5, "weight": 15, "species": "https://pokeapi.co/api/v2/pokemon-species/562/", "stats": {"hp": 38, "attack": 30, "defense": 85, "special-attack": 55, "special-defense": 65, "speed": 30}}
+{"id": 562, "name": "yamask", "height": 5, "weight": 15, "base_experience": 61, "species_url": "https://pokeapi.co/api/v2/pokemon-species/562/", "stats": {"hp": 38, "attack": 30, "defense": 85, "special-attack": 55, "special-defense": 65, "speed": 30}}

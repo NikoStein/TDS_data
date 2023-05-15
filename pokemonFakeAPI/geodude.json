@@ -1,1 +1,1 @@
-{"id": 74, "name": "geodude", "height": 4, "weight": 200, "species": "https://pokeapi.co/api/v2/pokemon-species/74/", "stats": {"hp": 40, "attack": 80, "defense": 100, "special-attack": 30, "special-defense": 30, "speed": 20}}
+{"id": 74, "name": "geodude", "height": 4, "weight": 200, "base_experience": 60, "species_url": "https://pokeapi.co/api/v2/pokemon-species/74/", "stats": {"hp": 40, "attack": 80, "defense": 100, "special-attack": 30, "special-defense": 30, "speed": 20}}

@@ -1,1 +1,1 @@
-{"id": 918, "name": "spidops", "height": 10, "weight": 165, "species": "https://pokeapi.co/api/v2/pokemon-species/918/", "stats": {"hp": 60, "attack": 79, "defense": 92, "special-attack": 52, "special-defense": 86, "speed": 35}}
+{"id": 918, "name": "spidops", "height": 10, "weight": 165, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/918/", "stats": {"hp": 60, "attack": 79, "defense": 92, "special-attack": 52, "special-defense": 86, "speed": 35}}

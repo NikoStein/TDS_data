@@ -1,1 +1,1 @@
-{"id": 612, "name": "haxorus", "height": 18, "weight": 1055, "species": "https://pokeapi.co/api/v2/pokemon-species/612/", "stats": {"hp": 76, "attack": 147, "defense": 90, "special-attack": 60, "special-defense": 70, "speed": 97}}
+{"id": 612, "name": "haxorus", "height": 18, "weight": 1055, "base_experience": 270, "species_url": "https://pokeapi.co/api/v2/pokemon-species/612/", "stats": {"hp": 76, "attack": 147, "defense": 90, "special-attack": 60, "special-defense": 70, "speed": 97}}

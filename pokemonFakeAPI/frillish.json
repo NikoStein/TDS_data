@@ -1,1 +1,1 @@
-{"id": 592, "name": "frillish", "height": 12, "weight": 330, "species": "https://pokeapi.co/api/v2/pokemon-species/592/", "stats": {"hp": 55, "attack": 40, "defense": 50, "special-attack": 65, "special-defense": 85, "speed": 40}}
+{"id": 592, "name": "frillish", "height": 12, "weight": 330, "base_experience": 67, "species_url": "https://pokeapi.co/api/v2/pokemon-species/592/", "stats": {"hp": 55, "attack": 40, "defense": 50, "special-attack": 65, "special-defense": 85, "speed": 40}}

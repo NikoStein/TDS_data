@@ -1,1 +1,1 @@
-{"id": 359, "name": "absol", "height": 12, "weight": 470, "species": "https://pokeapi.co/api/v2/pokemon-species/359/", "stats": {"hp": 65, "attack": 130, "defense": 60, "special-attack": 75, "special-defense": 60, "speed": 75}}
+{"id": 359, "name": "absol", "height": 12, "weight": 470, "base_experience": 163, "species_url": "https://pokeapi.co/api/v2/pokemon-species/359/", "stats": {"hp": 65, "attack": 130, "defense": 60, "special-attack": 75, "special-defense": 60, "speed": 75}}

@@ -1,1 +1,1 @@
-{"id": 2, "name": "ivysaur", "height": 10, "weight": 130, "species": "https://pokeapi.co/api/v2/pokemon-species/2/", "stats": {"hp": 60, "attack": 62, "defense": 63, "special-attack": 80, "special-defense": 80, "speed": 60}}
+{"id": 2, "name": "ivysaur", "height": 10, "weight": 130, "base_experience": 142, "species_url": "https://pokeapi.co/api/v2/pokemon-species/2/", "stats": {"hp": 60, "attack": 62, "defense": 63, "special-attack": 80, "special-defense": 80, "speed": 60}}

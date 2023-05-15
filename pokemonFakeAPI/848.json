@@ -1,1 +1,1 @@
-{"id": 848, "name": "toxel", "height": 4, "weight": 110, "species": "https://pokeapi.co/api/v2/pokemon-species/848/", "stats": {"hp": 40, "attack": 38, "defense": 35, "special-attack": 54, "special-defense": 35, "speed": 40}}
+{"id": 848, "name": "toxel", "height": 4, "weight": 110, "base_experience": 48, "species_url": "https://pokeapi.co/api/v2/pokemon-species/848/", "stats": {"hp": 40, "attack": 38, "defense": 35, "special-attack": 54, "special-defense": 35, "speed": 40}}

@@ -1,1 +1,1 @@
-{"id": 956, "name": "espathra", "height": 19, "weight": 900, "species": "https://pokeapi.co/api/v2/pokemon-species/956/", "stats": {"hp": 95, "attack": 60, "defense": 60, "special-attack": 101, "special-defense": 60, "speed": 105}}
+{"id": 956, "name": "espathra", "height": 19, "weight": 900, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/956/", "stats": {"hp": 95, "attack": 60, "defense": 60, "special-attack": 101, "special-defense": 60, "speed": 105}}

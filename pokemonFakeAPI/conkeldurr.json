@@ -1,1 +1,1 @@
-{"id": 534, "name": "conkeldurr", "height": 14, "weight": 870, "species": "https://pokeapi.co/api/v2/pokemon-species/534/", "stats": {"hp": 105, "attack": 140, "defense": 95, "special-attack": 55, "special-defense": 65, "speed": 45}}
+{"id": 534, "name": "conkeldurr", "height": 14, "weight": 870, "base_experience": 253, "species_url": "https://pokeapi.co/api/v2/pokemon-species/534/", "stats": {"hp": 105, "attack": 140, "defense": 95, "special-attack": 55, "special-defense": 65, "speed": 45}}

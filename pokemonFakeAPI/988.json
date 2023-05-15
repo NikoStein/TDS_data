@@ -1,1 +1,1 @@
-{"id": 988, "name": "slither-wing", "height": 32, "weight": 920, "species": "https://pokeapi.co/api/v2/pokemon-species/988/", "stats": {"hp": 85, "attack": 135, "defense": 79, "special-attack": 85, "special-defense": 105, "speed": 81}}
+{"id": 988, "name": "slither-wing", "height": 32, "weight": 920, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/988/", "stats": {"hp": 85, "attack": 135, "defense": 79, "special-attack": 85, "special-defense": 105, "speed": 81}}

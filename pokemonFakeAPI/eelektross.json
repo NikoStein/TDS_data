@@ -1,1 +1,1 @@
-{"id": 604, "name": "eelektross", "height": 21, "weight": 805, "species": "https://pokeapi.co/api/v2/pokemon-species/604/", "stats": {"hp": 85, "attack": 115, "defense": 80, "special-attack": 105, "special-defense": 80, "speed": 50}}
+{"id": 604, "name": "eelektross", "height": 21, "weight": 805, "base_experience": 232, "species_url": "https://pokeapi.co/api/v2/pokemon-species/604/", "stats": {"hp": 85, "attack": 115, "defense": 80, "special-attack": 105, "special-defense": 80, "speed": 50}}

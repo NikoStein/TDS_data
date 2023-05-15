@@ -1,1 +1,1 @@
-{"id": 447, "name": "riolu", "height": 7, "weight": 202, "species": "https://pokeapi.co/api/v2/pokemon-species/447/", "stats": {"hp": 40, "attack": 70, "defense": 40, "special-attack": 35, "special-defense": 40, "speed": 60}}
+{"id": 447, "name": "riolu", "height": 7, "weight": 202, "base_experience": 57, "species_url": "https://pokeapi.co/api/v2/pokemon-species/447/", "stats": {"hp": 40, "attack": 70, "defense": 40, "special-attack": 35, "special-defense": 40, "speed": 60}}

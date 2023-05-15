@@ -1,1 +1,1 @@
-{"id": 980, "name": "clodsire", "height": 18, "weight": 2230, "species": "https://pokeapi.co/api/v2/pokemon-species/980/", "stats": {"hp": 130, "attack": 75, "defense": 60, "special-attack": 45, "special-defense": 100, "speed": 20}}
+{"id": 980, "name": "clodsire", "height": 18, "weight": 2230, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/980/", "stats": {"hp": 130, "attack": 75, "defense": 60, "special-attack": 45, "special-defense": 100, "speed": 20}}

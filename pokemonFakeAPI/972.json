@@ -1,1 +1,1 @@
-{"id": 972, "name": "houndstone", "height": 20, "weight": 150, "species": "https://pokeapi.co/api/v2/pokemon-species/972/", "stats": {"hp": 72, "attack": 101, "defense": 100, "special-attack": 50, "special-defense": 97, "speed": 68}}
+{"id": 972, "name": "houndstone", "height": 20, "weight": 150, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/972/", "stats": {"hp": 72, "attack": 101, "defense": 100, "special-attack": 50, "special-defense": 97, "speed": 68}}

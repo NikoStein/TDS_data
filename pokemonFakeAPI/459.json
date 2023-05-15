@@ -1,1 +1,1 @@
-{"id": 459, "name": "snover", "height": 10, "weight": 505, "species": "https://pokeapi.co/api/v2/pokemon-species/459/", "stats": {"hp": 60, "attack": 62, "defense": 50, "special-attack": 62, "special-defense": 60, "speed": 40}}
+{"id": 459, "name": "snover", "height": 10, "weight": 505, "base_experience": 67, "species_url": "https://pokeapi.co/api/v2/pokemon-species/459/", "stats": {"hp": 60, "attack": 62, "defense": 50, "special-attack": 62, "special-defense": 60, "speed": 40}}

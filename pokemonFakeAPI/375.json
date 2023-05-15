@@ -1,1 +1,1 @@
-{"id": 375, "name": "metang", "height": 12, "weight": 2025, "species": "https://pokeapi.co/api/v2/pokemon-species/375/", "stats": {"hp": 60, "attack": 75, "defense": 100, "special-attack": 55, "special-defense": 80, "speed": 50}}
+{"id": 375, "name": "metang", "height": 12, "weight": 2025, "base_experience": 147, "species_url": "https://pokeapi.co/api/v2/pokemon-species/375/", "stats": {"hp": 60, "attack": 75, "defense": 100, "special-attack": 55, "special-defense": 80, "speed": 50}}

@@ -1,1 +1,1 @@
-{"id": 10050, "name": "blaziken-mega", "height": 19, "weight": 520, "species": "https://pokeapi.co/api/v2/pokemon-species/257/", "stats": {"hp": 80, "attack": 160, "defense": 80, "special-attack": 130, "special-defense": 80, "speed": 100}}
+{"id": 10050, "name": "blaziken-mega", "height": 19, "weight": 520, "base_experience": 284, "species_url": "https://pokeapi.co/api/v2/pokemon-species/257/", "stats": {"hp": 80, "attack": 160, "defense": 80, "special-attack": 130, "special-defense": 80, "speed": 100}}

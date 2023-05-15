@@ -1,1 +1,1 @@
-{"id": 488, "name": "cresselia", "height": 15, "weight": 856, "species": "https://pokeapi.co/api/v2/pokemon-species/488/", "stats": {"hp": 120, "attack": 70, "defense": 120, "special-attack": 75, "special-defense": 130, "speed": 85}}
+{"id": 488, "name": "cresselia", "height": 15, "weight": 856, "base_experience": 300, "species_url": "https://pokeapi.co/api/v2/pokemon-species/488/", "stats": {"hp": 120, "attack": 70, "defense": 120, "special-attack": 75, "special-defense": 130, "speed": 85}}

@@ -1,1 +1,1 @@
-{"id": 61, "name": "poliwhirl", "height": 10, "weight": 200, "species": "https://pokeapi.co/api/v2/pokemon-species/61/", "stats": {"hp": 65, "attack": 65, "defense": 65, "special-attack": 50, "special-defense": 50, "speed": 90}}
+{"id": 61, "name": "poliwhirl", "height": 10, "weight": 200, "base_experience": 135, "species_url": "https://pokeapi.co/api/v2/pokemon-species/61/", "stats": {"hp": 65, "attack": 65, "defense": 65, "special-attack": 50, "special-defense": 50, "speed": 90}}

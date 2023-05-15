@@ -1,1 +1,1 @@
-{"id": 342, "name": "crawdaunt", "height": 11, "weight": 328, "species": "https://pokeapi.co/api/v2/pokemon-species/342/", "stats": {"hp": 63, "attack": 120, "defense": 85, "special-attack": 90, "special-defense": 55, "speed": 55}}
+{"id": 342, "name": "crawdaunt", "height": 11, "weight": 328, "base_experience": 164, "species_url": "https://pokeapi.co/api/v2/pokemon-species/342/", "stats": {"hp": 63, "attack": 120, "defense": 85, "special-attack": 90, "special-defense": 55, "speed": 55}}

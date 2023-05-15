@@ -1,1 +1,1 @@
-{"id": 594, "name": "alomomola", "height": 12, "weight": 316, "species": "https://pokeapi.co/api/v2/pokemon-species/594/", "stats": {"hp": 165, "attack": 75, "defense": 80, "special-attack": 40, "special-defense": 45, "speed": 65}}
+{"id": 594, "name": "alomomola", "height": 12, "weight": 316, "base_experience": 165, "species_url": "https://pokeapi.co/api/v2/pokemon-species/594/", "stats": {"hp": 165, "attack": 75, "defense": 80, "special-attack": 40, "special-defense": 45, "speed": 65}}

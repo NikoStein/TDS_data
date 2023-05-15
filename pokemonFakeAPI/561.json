@@ -1,1 +1,1 @@
-{"id": 561, "name": "sigilyph", "height": 14, "weight": 140, "species": "https://pokeapi.co/api/v2/pokemon-species/561/", "stats": {"hp": 72, "attack": 58, "defense": 80, "special-attack": 103, "special-defense": 80, "speed": 97}}
+{"id": 561, "name": "sigilyph", "height": 14, "weight": 140, "base_experience": 172, "species_url": "https://pokeapi.co/api/v2/pokemon-species/561/", "stats": {"hp": 72, "attack": 58, "defense": 80, "special-attack": 103, "special-defense": 80, "speed": 97}}

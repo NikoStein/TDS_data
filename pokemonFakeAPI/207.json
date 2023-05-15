@@ -1,1 +1,1 @@
-{"id": 207, "name": "gligar", "height": 11, "weight": 648, "species": "https://pokeapi.co/api/v2/pokemon-species/207/", "stats": {"hp": 65, "attack": 75, "defense": 105, "special-attack": 35, "special-defense": 65, "speed": 85}}
+{"id": 207, "name": "gligar", "height": 11, "weight": 648, "base_experience": 86, "species_url": "https://pokeapi.co/api/v2/pokemon-species/207/", "stats": {"hp": 65, "attack": 75, "defense": 105, "special-attack": 35, "special-defense": 65, "speed": 85}}

@@ -1,1 +1,1 @@
-{"id": 321, "name": "wailord", "height": 145, "weight": 3980, "species": "https://pokeapi.co/api/v2/pokemon-species/321/", "stats": {"hp": 170, "attack": 90, "defense": 45, "special-attack": 90, "special-defense": 45, "speed": 60}}
+{"id": 321, "name": "wailord", "height": 145, "weight": 3980, "base_experience": 175, "species_url": "https://pokeapi.co/api/v2/pokemon-species/321/", "stats": {"hp": 170, "attack": 90, "defense": 45, "special-attack": 90, "special-defense": 45, "speed": 60}}

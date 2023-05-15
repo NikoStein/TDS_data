@@ -1,1 +1,1 @@
-{"id": 26, "name": "raichu", "height": 8, "weight": 300, "species": "https://pokeapi.co/api/v2/pokemon-species/26/", "stats": {"hp": 60, "attack": 90, "defense": 55, "special-attack": 90, "special-defense": 80, "speed": 110}}
+{"id": 26, "name": "raichu", "height": 8, "weight": 300, "base_experience": 243, "species_url": "https://pokeapi.co/api/v2/pokemon-species/26/", "stats": {"hp": 60, "attack": 90, "defense": 55, "special-attack": 90, "special-defense": 80, "speed": 110}}

@@ -1,1 +1,1 @@
-{"id": 715, "name": "noivern", "height": 15, "weight": 850, "species": "https://pokeapi.co/api/v2/pokemon-species/715/", "stats": {"hp": 85, "attack": 70, "defense": 80, "special-attack": 97, "special-defense": 80, "speed": 123}}
+{"id": 715, "name": "noivern", "height": 15, "weight": 850, "base_experience": 187, "species_url": "https://pokeapi.co/api/v2/pokemon-species/715/", "stats": {"hp": 85, "attack": 70, "defense": 80, "special-attack": 97, "special-defense": 80, "speed": 123}}

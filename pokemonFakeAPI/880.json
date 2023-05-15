@@ -1,1 +1,1 @@
-{"id": 880, "name": "dracozolt", "height": 18, "weight": 1900, "species": "https://pokeapi.co/api/v2/pokemon-species/880/", "stats": {"hp": 90, "attack": 100, "defense": 90, "special-attack": 80, "special-defense": 70, "speed": 75}}
+{"id": 880, "name": "dracozolt", "height": 18, "weight": 1900, "base_experience": 177, "species_url": "https://pokeapi.co/api/v2/pokemon-species/880/", "stats": {"hp": 90, "attack": 100, "defense": 90, "special-attack": 80, "special-defense": 70, "speed": 75}}

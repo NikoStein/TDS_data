@@ -1,1 +1,1 @@
-{"id": 585, "name": "deerling", "height": 6, "weight": 195, "species": "https://pokeapi.co/api/v2/pokemon-species/585/", "stats": {"hp": 60, "attack": 60, "defense": 50, "special-attack": 40, "special-defense": 50, "speed": 75}}
+{"id": 585, "name": "deerling", "height": 6, "weight": 195, "base_experience": 67, "species_url": "https://pokeapi.co/api/v2/pokemon-species/585/", "stats": {"hp": 60, "attack": 60, "defense": 50, "special-attack": 40, "special-defense": 50, "speed": 75}}

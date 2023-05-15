@@ -1,1 +1,1 @@
-{"id": 737, "name": "charjabug", "height": 5, "weight": 105, "species": "https://pokeapi.co/api/v2/pokemon-species/737/", "stats": {"hp": 57, "attack": 82, "defense": 95, "special-attack": 55, "special-defense": 75, "speed": 36}}
+{"id": 737, "name": "charjabug", "height": 5, "weight": 105, "base_experience": 140, "species_url": "https://pokeapi.co/api/v2/pokemon-species/737/", "stats": {"hp": 57, "attack": 82, "defense": 95, "special-attack": 55, "special-defense": 75, "speed": 36}}

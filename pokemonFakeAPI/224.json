@@ -1,1 +1,1 @@
-{"id": 224, "name": "octillery", "height": 9, "weight": 285, "species": "https://pokeapi.co/api/v2/pokemon-species/224/", "stats": {"hp": 75, "attack": 105, "defense": 75, "special-attack": 105, "special-defense": 75, "speed": 45}}
+{"id": 224, "name": "octillery", "height": 9, "weight": 285, "base_experience": 168, "species_url": "https://pokeapi.co/api/v2/pokemon-species/224/", "stats": {"hp": 75, "attack": 105, "defense": 75, "special-attack": 105, "special-defense": 75, "speed": 45}}

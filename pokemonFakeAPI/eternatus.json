@@ -1,1 +1,1 @@
-{"id": 890, "name": "eternatus", "height": 200, "weight": 9500, "species": "https://pokeapi.co/api/v2/pokemon-species/890/", "stats": {"hp": 140, "attack": 85, "defense": 95, "special-attack": 145, "special-defense": 95, "speed": 130}}
+{"id": 890, "name": "eternatus", "height": 200, "weight": 9500, "base_experience": 345, "species_url": "https://pokeapi.co/api/v2/pokemon-species/890/", "stats": {"hp": 140, "attack": 85, "defense": 95, "special-attack": 145, "special-defense": 95, "speed": 130}}

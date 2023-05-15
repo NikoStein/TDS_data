@@ -1,1 +1,1 @@
-{"id": 437, "name": "bronzong", "height": 13, "weight": 1870, "species": "https://pokeapi.co/api/v2/pokemon-species/437/", "stats": {"hp": 67, "attack": 89, "defense": 116, "special-attack": 79, "special-defense": 116, "speed": 33}}
+{"id": 437, "name": "bronzong", "height": 13, "weight": 1870, "base_experience": 175, "species_url": "https://pokeapi.co/api/v2/pokemon-species/437/", "stats": {"hp": 67, "attack": 89, "defense": 116, "special-attack": 79, "special-defense": 116, "speed": 33}}

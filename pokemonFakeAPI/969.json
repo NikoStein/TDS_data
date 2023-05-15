@@ -1,1 +1,1 @@
-{"id": 969, "name": "glimmet", "height": 7, "weight": 80, "species": "https://pokeapi.co/api/v2/pokemon-species/969/", "stats": {"hp": 48, "attack": 35, "defense": 42, "special-attack": 105, "special-defense": 60, "speed": 60}}
+{"id": 969, "name": "glimmet", "height": 7, "weight": 80, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/969/", "stats": {"hp": 48, "attack": 35, "defense": 42, "special-attack": 105, "special-defense": 60, "speed": 60}}

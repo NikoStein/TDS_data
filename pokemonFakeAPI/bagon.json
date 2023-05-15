@@ -1,1 +1,1 @@
-{"id": 371, "name": "bagon", "height": 6, "weight": 421, "species": "https://pokeapi.co/api/v2/pokemon-species/371/", "stats": {"hp": 45, "attack": 75, "defense": 60, "special-attack": 40, "special-defense": 30, "speed": 50}}
+{"id": 371, "name": "bagon", "height": 6, "weight": 421, "base_experience": 60, "species_url": "https://pokeapi.co/api/v2/pokemon-species/371/", "stats": {"hp": 45, "attack": 75, "defense": 60, "special-attack": 40, "special-defense": 30, "speed": 50}}

@@ -1,1 +1,1 @@
-{"id": 236, "name": "tyrogue", "height": 7, "weight": 210, "species": "https://pokeapi.co/api/v2/pokemon-species/236/", "stats": {"hp": 35, "attack": 35, "defense": 35, "special-attack": 35, "special-defense": 35, "speed": 35}}
+{"id": 236, "name": "tyrogue", "height": 7, "weight": 210, "base_experience": 42, "species_url": "https://pokeapi.co/api/v2/pokemon-species/236/", "stats": {"hp": 35, "attack": 35, "defense": 35, "special-attack": 35, "special-defense": 35, "speed": 35}}

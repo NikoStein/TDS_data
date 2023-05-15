@@ -1,1 +1,1 @@
-{"id": 10062, "name": "latias-mega", "height": 18, "weight": 520, "species": "https://pokeapi.co/api/v2/pokemon-species/380/", "stats": {"hp": 80, "attack": 100, "defense": 120, "special-attack": 140, "special-defense": 150, "speed": 110}}
+{"id": 10062, "name": "latias-mega", "height": 18, "weight": 520, "base_experience": 315, "species_url": "https://pokeapi.co/api/v2/pokemon-species/380/", "stats": {"hp": 80, "attack": 100, "defense": 120, "special-attack": 140, "special-defense": 150, "speed": 110}}

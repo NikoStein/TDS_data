@@ -1,1 +1,1 @@
-{"id": 427, "name": "buneary", "height": 4, "weight": 55, "species": "https://pokeapi.co/api/v2/pokemon-species/427/", "stats": {"hp": 55, "attack": 66, "defense": 44, "special-attack": 44, "special-defense": 56, "speed": 85}}
+{"id": 427, "name": "buneary", "height": 4, "weight": 55, "base_experience": 70, "species_url": "https://pokeapi.co/api/v2/pokemon-species/427/", "stats": {"hp": 55, "attack": 66, "defense": 44, "special-attack": 44, "special-defense": 56, "speed": 85}}

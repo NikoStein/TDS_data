@@ -1,1 +1,1 @@
-{"id": 626, "name": "bouffalant", "height": 16, "weight": 946, "species": "https://pokeapi.co/api/v2/pokemon-species/626/", "stats": {"hp": 95, "attack": 110, "defense": 95, "special-attack": 40, "special-defense": 95, "speed": 55}}
+{"id": 626, "name": "bouffalant", "height": 16, "weight": 946, "base_experience": 172, "species_url": "https://pokeapi.co/api/v2/pokemon-species/626/", "stats": {"hp": 95, "attack": 110, "defense": 95, "special-attack": 40, "special-defense": 95, "speed": 55}}

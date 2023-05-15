@@ -1,1 +1,1 @@
-{"id": 254, "name": "sceptile", "height": 17, "weight": 522, "species": "https://pokeapi.co/api/v2/pokemon-species/254/", "stats": {"hp": 70, "attack": 85, "defense": 65, "special-attack": 105, "special-defense": 85, "speed": 120}}
+{"id": 254, "name": "sceptile", "height": 17, "weight": 522, "base_experience": 265, "species_url": "https://pokeapi.co/api/v2/pokemon-species/254/", "stats": {"hp": 70, "attack": 85, "defense": 65, "special-attack": 105, "special-defense": 85, "speed": 120}}

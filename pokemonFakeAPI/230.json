@@ -1,1 +1,1 @@
-{"id": 230, "name": "kingdra", "height": 18, "weight": 1520, "species": "https://pokeapi.co/api/v2/pokemon-species/230/", "stats": {"hp": 75, "attack": 95, "defense": 95, "special-attack": 95, "special-defense": 95, "speed": 85}}
+{"id": 230, "name": "kingdra", "height": 18, "weight": 1520, "base_experience": 270, "species_url": "https://pokeapi.co/api/v2/pokemon-species/230/", "stats": {"hp": 75, "attack": 95, "defense": 95, "special-attack": 95, "special-defense": 95, "speed": 85}}

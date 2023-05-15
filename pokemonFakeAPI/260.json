@@ -1,1 +1,1 @@
-{"id": 260, "name": "swampert", "height": 15, "weight": 819, "species": "https://pokeapi.co/api/v2/pokemon-species/260/", "stats": {"hp": 100, "attack": 110, "defense": 90, "special-attack": 85, "special-defense": 90, "speed": 60}}
+{"id": 260, "name": "swampert", "height": 15, "weight": 819, "base_experience": 268, "species_url": "https://pokeapi.co/api/v2/pokemon-species/260/", "stats": {"hp": 100, "attack": 110, "defense": 90, "special-attack": 85, "special-defense": 90, "speed": 60}}

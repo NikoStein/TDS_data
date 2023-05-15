@@ -1,1 +1,1 @@
-{"id": 497, "name": "serperior", "height": 33, "weight": 630, "species": "https://pokeapi.co/api/v2/pokemon-species/497/", "stats": {"hp": 75, "attack": 75, "defense": 95, "special-attack": 75, "special-defense": 95, "speed": 113}}
+{"id": 497, "name": "serperior", "height": 33, "weight": 630, "base_experience": 238, "species_url": "https://pokeapi.co/api/v2/pokemon-species/497/", "stats": {"hp": 75, "attack": 75, "defense": 95, "special-attack": 75, "special-defense": 95, "speed": 113}}

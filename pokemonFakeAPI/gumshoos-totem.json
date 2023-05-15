@@ -1,1 +1,1 @@
-{"id": 10121, "name": "gumshoos-totem", "height": 14, "weight": 600, "species": "https://pokeapi.co/api/v2/pokemon-species/735/", "stats": {"hp": 88, "attack": 110, "defense": 60, "special-attack": 55, "special-defense": 60, "speed": 45}}
+{"id": 10121, "name": "gumshoos-totem", "height": 14, "weight": 600, "base_experience": 146, "species_url": "https://pokeapi.co/api/v2/pokemon-species/735/", "stats": {"hp": 88, "attack": 110, "defense": 60, "special-attack": 55, "special-defense": 60, "speed": 45}}

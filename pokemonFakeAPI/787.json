@@ -1,1 +1,1 @@
-{"id": 787, "name": "tapu-bulu", "height": 19, "weight": 455, "species": "https://pokeapi.co/api/v2/pokemon-species/787/", "stats": {"hp": 70, "attack": 130, "defense": 115, "special-attack": 85, "special-defense": 95, "speed": 75}}
+{"id": 787, "name": "tapu-bulu", "height": 19, "weight": 455, "base_experience": 285, "species_url": "https://pokeapi.co/api/v2/pokemon-species/787/", "stats": {"hp": 70, "attack": 130, "defense": 115, "special-attack": 85, "special-defense": 95, "speed": 75}}

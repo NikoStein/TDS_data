@@ -1,1 +1,1 @@
-{"id": 96, "name": "drowzee", "height": 10, "weight": 324, "species": "https://pokeapi.co/api/v2/pokemon-species/96/", "stats": {"hp": 60, "attack": 48, "defense": 45, "special-attack": 43, "special-defense": 90, "speed": 42}}
+{"id": 96, "name": "drowzee", "height": 10, "weight": 324, "base_experience": 66, "species_url": "https://pokeapi.co/api/v2/pokemon-species/96/", "stats": {"hp": 60, "attack": 48, "defense": 45, "special-attack": 43, "special-defense": 90, "speed": 42}}

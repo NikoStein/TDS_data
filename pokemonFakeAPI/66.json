@@ -1,1 +1,1 @@
-{"id": 66, "name": "machop", "height": 8, "weight": 195, "species": "https://pokeapi.co/api/v2/pokemon-species/66/", "stats": {"hp": 70, "attack": 80, "defense": 50, "special-attack": 35, "special-defense": 35, "speed": 35}}
+{"id": 66, "name": "machop", "height": 8, "weight": 195, "base_experience": 61, "species_url": "https://pokeapi.co/api/v2/pokemon-species/66/", "stats": {"hp": 70, "attack": 80, "defense": 50, "special-attack": 35, "special-defense": 35, "speed": 35}}

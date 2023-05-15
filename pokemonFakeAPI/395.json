@@ -1,1 +1,1 @@
-{"id": 395, "name": "empoleon", "height": 17, "weight": 845, "species": "https://pokeapi.co/api/v2/pokemon-species/395/", "stats": {"hp": 84, "attack": 86, "defense": 88, "special-attack": 111, "special-defense": 101, "speed": 60}}
+{"id": 395, "name": "empoleon", "height": 17, "weight": 845, "base_experience": 239, "species_url": "https://pokeapi.co/api/v2/pokemon-species/395/", "stats": {"hp": 84, "attack": 86, "defense": 88, "special-attack": 111, "special-defense": 101, "speed": 60}}

@@ -1,1 +1,1 @@
-{"id": 10090, "name": "beedrill-mega", "height": 14, "weight": 405, "species": "https://pokeapi.co/api/v2/pokemon-species/15/", "stats": {"hp": 65, "attack": 150, "defense": 40, "special-attack": 15, "special-defense": 80, "speed": 145}}
+{"id": 10090, "name": "beedrill-mega", "height": 14, "weight": 405, "base_experience": 223, "species_url": "https://pokeapi.co/api/v2/pokemon-species/15/", "stats": {"hp": 65, "attack": 150, "defense": 40, "special-attack": 15, "special-defense": 80, "speed": 145}}

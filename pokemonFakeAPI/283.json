@@ -1,1 +1,1 @@
-{"id": 283, "name": "surskit", "height": 5, "weight": 17, "species": "https://pokeapi.co/api/v2/pokemon-species/283/", "stats": {"hp": 40, "attack": 30, "defense": 32, "special-attack": 50, "special-defense": 52, "speed": 65}}
+{"id": 283, "name": "surskit", "height": 5, "weight": 17, "base_experience": 54, "species_url": "https://pokeapi.co/api/v2/pokemon-species/283/", "stats": {"hp": 40, "attack": 30, "defense": 32, "special-attack": 50, "special-defense": 52, "speed": 65}}

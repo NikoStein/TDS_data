@@ -1,1 +1,1 @@
-{"id": 363, "name": "spheal", "height": 8, "weight": 395, "species": "https://pokeapi.co/api/v2/pokemon-species/363/", "stats": {"hp": 70, "attack": 40, "defense": 50, "special-attack": 55, "special-defense": 50, "speed": 25}}
+{"id": 363, "name": "spheal", "height": 8, "weight": 395, "base_experience": 58, "species_url": "https://pokeapi.co/api/v2/pokemon-species/363/", "stats": {"hp": 70, "attack": 40, "defense": 50, "special-attack": 55, "special-defense": 50, "speed": 25}}

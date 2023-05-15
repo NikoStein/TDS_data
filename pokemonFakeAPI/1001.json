@@ -1,1 +1,1 @@
-{"id": 1001, "name": "wo-chien", "height": 15, "weight": 742, "species": "https://pokeapi.co/api/v2/pokemon-species/1001/", "stats": {"hp": 85, "attack": 85, "defense": 100, "special-attack": 95, "special-defense": 135, "speed": 70}}
+{"id": 1001, "name": "wo-chien", "height": 15, "weight": 742, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/1001/", "stats": {"hp": 85, "attack": 85, "defense": 100, "special-attack": 95, "special-defense": 135, "speed": 70}}

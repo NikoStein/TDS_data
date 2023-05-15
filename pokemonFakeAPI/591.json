@@ -1,1 +1,1 @@
-{"id": 591, "name": "amoonguss", "height": 6, "weight": 105, "species": "https://pokeapi.co/api/v2/pokemon-species/591/", "stats": {"hp": 114, "attack": 85, "defense": 70, "special-attack": 85, "special-defense": 80, "speed": 30}}
+{"id": 591, "name": "amoonguss", "height": 6, "weight": 105, "base_experience": 162, "species_url": "https://pokeapi.co/api/v2/pokemon-species/591/", "stats": {"hp": 114, "attack": 85, "defense": 70, "special-attack": 85, "special-defense": 80, "speed": 30}}

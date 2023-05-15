@@ -1,1 +1,1 @@
-{"id": 879, "name": "copperajah", "height": 30, "weight": 6500, "species": "https://pokeapi.co/api/v2/pokemon-species/879/", "stats": {"hp": 122, "attack": 130, "defense": 69, "special-attack": 80, "special-defense": 69, "speed": 30}}
+{"id": 879, "name": "copperajah", "height": 30, "weight": 6500, "base_experience": 175, "species_url": "https://pokeapi.co/api/v2/pokemon-species/879/", "stats": {"hp": 122, "attack": 130, "defense": 69, "special-attack": 80, "special-defense": 69, "speed": 30}}

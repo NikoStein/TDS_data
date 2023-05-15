@@ -1,1 +1,1 @@
-{"id": 10020, "name": "thundurus-therian", "height": 30, "weight": 610, "species": "https://pokeapi.co/api/v2/pokemon-species/642/", "stats": {"hp": 79, "attack": 105, "defense": 70, "special-attack": 145, "special-defense": 80, "speed": 101}}
+{"id": 10020, "name": "thundurus-therian", "height": 30, "weight": 610, "base_experience": 290, "species_url": "https://pokeapi.co/api/v2/pokemon-species/642/", "stats": {"hp": 79, "attack": 105, "defense": 70, "special-attack": 145, "special-defense": 80, "speed": 101}}

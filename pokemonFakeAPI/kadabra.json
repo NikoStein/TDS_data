@@ -1,1 +1,1 @@
-{"id": 64, "name": "kadabra", "height": 13, "weight": 565, "species": "https://pokeapi.co/api/v2/pokemon-species/64/", "stats": {"hp": 40, "attack": 35, "defense": 30, "special-attack": 120, "special-defense": 70, "speed": 105}}
+{"id": 64, "name": "kadabra", "height": 13, "weight": 565, "base_experience": 140, "species_url": "https://pokeapi.co/api/v2/pokemon-species/64/", "stats": {"hp": 40, "attack": 35, "defense": 30, "special-attack": 120, "special-defense": 70, "speed": 105}}

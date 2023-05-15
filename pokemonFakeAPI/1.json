@@ -1,1 +1,1 @@
-{"id": 1, "name": "bulbasaur", "height": 7, "weight": 69, "species": "https://pokeapi.co/api/v2/pokemon-species/1/", "stats": {"hp": 45, "attack": 49, "defense": 49, "special-attack": 65, "special-defense": 65, "speed": 45}}
+{"id": 1, "name": "bulbasaur", "height": 7, "weight": 69, "base_experience": 64, "species_url": "https://pokeapi.co/api/v2/pokemon-species/1/", "stats": {"hp": 45, "attack": 49, "defense": 49, "special-attack": 65, "special-defense": 65, "speed": 45}}

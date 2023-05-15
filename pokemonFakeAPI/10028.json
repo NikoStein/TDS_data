@@ -1,1 +1,1 @@
-{"id": 10028, "name": "pumpkaboo-large", "height": 5, "weight": 75, "species": "https://pokeapi.co/api/v2/pokemon-species/710/", "stats": {"hp": 54, "attack": 66, "defense": 70, "special-attack": 44, "special-defense": 55, "speed": 46}}
+{"id": 10028, "name": "pumpkaboo-large", "height": 5, "weight": 75, "base_experience": 67, "species_url": "https://pokeapi.co/api/v2/pokemon-species/710/", "stats": {"hp": 54, "attack": 66, "defense": 70, "special-attack": 44, "special-defense": 55, "speed": 46}}

@@ -1,1 +1,1 @@
-{"id": 777, "name": "togedemaru", "height": 3, "weight": 33, "species": "https://pokeapi.co/api/v2/pokemon-species/777/", "stats": {"hp": 65, "attack": 98, "defense": 63, "special-attack": 40, "special-defense": 73, "speed": 96}}
+{"id": 777, "name": "togedemaru", "height": 3, "weight": 33, "base_experience": 152, "species_url": "https://pokeapi.co/api/v2/pokemon-species/777/", "stats": {"hp": 65, "attack": 98, "defense": 63, "special-attack": 40, "special-defense": 73, "speed": 96}}

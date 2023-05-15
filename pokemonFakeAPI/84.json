@@ -1,1 +1,1 @@
-{"id": 84, "name": "doduo", "height": 14, "weight": 392, "species": "https://pokeapi.co/api/v2/pokemon-species/84/", "stats": {"hp": 35, "attack": 85, "defense": 45, "special-attack": 35, "special-defense": 35, "speed": 75}}
+{"id": 84, "name": "doduo", "height": 14, "weight": 392, "base_experience": 62, "species_url": "https://pokeapi.co/api/v2/pokemon-species/84/", "stats": {"hp": 35, "attack": 85, "defense": 45, "special-attack": 35, "special-defense": 35, "speed": 75}}

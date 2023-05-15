@@ -1,1 +1,1 @@
-{"id": 565, "name": "carracosta", "height": 12, "weight": 810, "species": "https://pokeapi.co/api/v2/pokemon-species/565/", "stats": {"hp": 74, "attack": 108, "defense": 133, "special-attack": 83, "special-defense": 65, "speed": 32}}
+{"id": 565, "name": "carracosta", "height": 12, "weight": 810, "base_experience": 173, "species_url": "https://pokeapi.co/api/v2/pokemon-species/565/", "stats": {"hp": 74, "attack": 108, "defense": 133, "special-attack": 83, "special-defense": 65, "speed": 32}}

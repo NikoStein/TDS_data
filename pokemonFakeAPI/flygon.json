@@ -1,1 +1,1 @@
-{"id": 330, "name": "flygon", "height": 20, "weight": 820, "species": "https://pokeapi.co/api/v2/pokemon-species/330/", "stats": {"hp": 80, "attack": 100, "defense": 80, "special-attack": 80, "special-defense": 80, "speed": 100}}
+{"id": 330, "name": "flygon", "height": 20, "weight": 820, "base_experience": 260, "species_url": "https://pokeapi.co/api/v2/pokemon-species/330/", "stats": {"hp": 80, "attack": 100, "defense": 80, "special-attack": 80, "special-defense": 80, "speed": 100}}

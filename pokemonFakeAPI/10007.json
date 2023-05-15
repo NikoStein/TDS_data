@@ -1,1 +1,1 @@
-{"id": 10007, "name": "giratina-origin", "height": 69, "weight": 6500, "species": "https://pokeapi.co/api/v2/pokemon-species/487/", "stats": {"hp": 150, "attack": 120, "defense": 100, "special-attack": 120, "special-defense": 100, "speed": 90}}
+{"id": 10007, "name": "giratina-origin", "height": 69, "weight": 6500, "base_experience": 340, "species_url": "https://pokeapi.co/api/v2/pokemon-species/487/", "stats": {"hp": 150, "attack": 120, "defense": 100, "special-attack": 120, "special-defense": 100, "speed": 90}}

@@ -1,1 +1,1 @@
-{"id": 998, "name": "baxcalibur", "height": 21, "weight": 2100, "species": "https://pokeapi.co/api/v2/pokemon-species/998/", "stats": {"hp": 115, "attack": 145, "defense": 92, "special-attack": 75, "special-defense": 86, "speed": 87}}
+{"id": 998, "name": "baxcalibur", "height": 21, "weight": 2100, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/998/", "stats": {"hp": 115, "attack": 145, "defense": 92, "special-attack": 75, "special-defense": 86, "speed": 87}}

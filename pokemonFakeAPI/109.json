@@ -1,1 +1,1 @@
-{"id": 109, "name": "koffing", "height": 6, "weight": 10, "species": "https://pokeapi.co/api/v2/pokemon-species/109/", "stats": {"hp": 40, "attack": 65, "defense": 95, "special-attack": 60, "special-defense": 45, "speed": 35}}
+{"id": 109, "name": "koffing", "height": 6, "weight": 10, "base_experience": 68, "species_url": "https://pokeapi.co/api/v2/pokemon-species/109/", "stats": {"hp": 40, "attack": 65, "defense": 95, "special-attack": 60, "special-defense": 45, "speed": 35}}

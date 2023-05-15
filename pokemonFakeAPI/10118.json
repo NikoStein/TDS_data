@@ -1,1 +1,1 @@
-{"id": 10118, "name": "zygarde-10-power-construct", "height": 12, "weight": 335, "species": "https://pokeapi.co/api/v2/pokemon-species/718/", "stats": {"hp": 54, "attack": 100, "defense": 71, "special-attack": 61, "special-defense": 85, "speed": 115}}
+{"id": 10118, "name": "zygarde-10-power-construct", "height": 12, "weight": 335, "base_experience": 243, "species_url": "https://pokeapi.co/api/v2/pokemon-species/718/", "stats": {"hp": 54, "attack": 100, "defense": 71, "special-attack": 61, "special-defense": 85, "speed": 115}}

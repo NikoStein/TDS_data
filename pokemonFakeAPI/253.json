@@ -1,1 +1,1 @@
-{"id": 253, "name": "grovyle", "height": 9, "weight": 216, "species": "https://pokeapi.co/api/v2/pokemon-species/253/", "stats": {"hp": 50, "attack": 65, "defense": 45, "special-attack": 85, "special-defense": 65, "speed": 95}}
+{"id": 253, "name": "grovyle", "height": 9, "weight": 216, "base_experience": 142, "species_url": "https://pokeapi.co/api/v2/pokemon-species/253/", "stats": {"hp": 50, "attack": 65, "defense": 45, "special-attack": 85, "special-defense": 65, "speed": 95}}

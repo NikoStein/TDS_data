@@ -1,1 +1,1 @@
-{"id": 660, "name": "diggersby", "height": 10, "weight": 424, "species": "https://pokeapi.co/api/v2/pokemon-species/660/", "stats": {"hp": 85, "attack": 56, "defense": 77, "special-attack": 50, "special-defense": 77, "speed": 78}}
+{"id": 660, "name": "diggersby", "height": 10, "weight": 424, "base_experience": 148, "species_url": "https://pokeapi.co/api/v2/pokemon-species/660/", "stats": {"hp": 85, "attack": 56, "defense": 77, "special-attack": 50, "special-defense": 77, "speed": 78}}

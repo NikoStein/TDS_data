@@ -1,1 +1,1 @@
-{"id": 1004, "name": "chi-yu", "height": 4, "weight": 49, "species": "https://pokeapi.co/api/v2/pokemon-species/1004/", "stats": {"hp": 55, "attack": 80, "defense": 80, "special-attack": 135, "special-defense": 120, "speed": 100}}
+{"id": 1004, "name": "chi-yu", "height": 4, "weight": 49, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/1004/", "stats": {"hp": 55, "attack": 80, "defense": 80, "special-attack": 135, "special-defense": 120, "speed": 100}}

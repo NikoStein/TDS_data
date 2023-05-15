@@ -1,1 +1,1 @@
-{"id": 611, "name": "fraxure", "height": 10, "weight": 360, "species": "https://pokeapi.co/api/v2/pokemon-species/611/", "stats": {"hp": 66, "attack": 117, "defense": 70, "special-attack": 40, "special-defense": 50, "speed": 67}}
+{"id": 611, "name": "fraxure", "height": 10, "weight": 360, "base_experience": 144, "species_url": "https://pokeapi.co/api/v2/pokemon-species/611/", "stats": {"hp": 66, "attack": 117, "defense": 70, "special-attack": 40, "special-defense": 50, "speed": 67}}

@@ -1,1 +1,1 @@
-{"id": 508, "name": "stoutland", "height": 12, "weight": 610, "species": "https://pokeapi.co/api/v2/pokemon-species/508/", "stats": {"hp": 85, "attack": 110, "defense": 90, "special-attack": 45, "special-defense": 90, "speed": 80}}
+{"id": 508, "name": "stoutland", "height": 12, "weight": 610, "base_experience": 250, "species_url": "https://pokeapi.co/api/v2/pokemon-species/508/", "stats": {"hp": 85, "attack": 110, "defense": 90, "special-attack": 45, "special-defense": 90, "speed": 80}}

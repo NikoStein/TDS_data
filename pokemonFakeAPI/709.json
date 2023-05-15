@@ -1,1 +1,1 @@
-{"id": 709, "name": "trevenant", "height": 15, "weight": 710, "species": "https://pokeapi.co/api/v2/pokemon-species/709/", "stats": {"hp": 85, "attack": 110, "defense": 76, "special-attack": 65, "special-defense": 82, "speed": 56}}
+{"id": 709, "name": "trevenant", "height": 15, "weight": 710, "base_experience": 166, "species_url": "https://pokeapi.co/api/v2/pokemon-species/709/", "stats": {"hp": 85, "attack": 110, "defense": 76, "special-attack": 65, "special-defense": 82, "speed": 56}}

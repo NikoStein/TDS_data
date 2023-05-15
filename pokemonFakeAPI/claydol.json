@@ -1,1 +1,1 @@
-{"id": 344, "name": "claydol", "height": 15, "weight": 1080, "species": "https://pokeapi.co/api/v2/pokemon-species/344/", "stats": {"hp": 60, "attack": 70, "defense": 105, "special-attack": 70, "special-defense": 120, "speed": 75}}
+{"id": 344, "name": "claydol", "height": 15, "weight": 1080, "base_experience": 175, "species_url": "https://pokeapi.co/api/v2/pokemon-species/344/", "stats": {"hp": 60, "attack": 70, "defense": 105, "special-attack": 70, "special-defense": 120, "speed": 75}}

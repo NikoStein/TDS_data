@@ -1,1 +1,1 @@
-{"id": 522, "name": "blitzle", "height": 8, "weight": 298, "species": "https://pokeapi.co/api/v2/pokemon-species/522/", "stats": {"hp": 45, "attack": 60, "defense": 32, "special-attack": 50, "special-defense": 32, "speed": 76}}
+{"id": 522, "name": "blitzle", "height": 8, "weight": 298, "base_experience": 59, "species_url": "https://pokeapi.co/api/v2/pokemon-species/522/", "stats": {"hp": 45, "attack": 60, "defense": 32, "special-attack": 50, "special-defense": 32, "speed": 76}}

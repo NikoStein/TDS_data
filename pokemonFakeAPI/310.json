@@ -1,1 +1,1 @@
-{"id": 310, "name": "manectric", "height": 15, "weight": 402, "species": "https://pokeapi.co/api/v2/pokemon-species/310/", "stats": {"hp": 70, "attack": 75, "defense": 60, "special-attack": 105, "special-defense": 60, "speed": 105}}
+{"id": 310, "name": "manectric", "height": 15, "weight": 402, "base_experience": 166, "species_url": "https://pokeapi.co/api/v2/pokemon-species/310/", "stats": {"hp": 70, "attack": 75, "defense": 60, "special-attack": 105, "special-defense": 60, "speed": 105}}

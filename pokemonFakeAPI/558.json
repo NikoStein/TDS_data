@@ -1,1 +1,1 @@
-{"id": 558, "name": "crustle", "height": 14, "weight": 2000, "species": "https://pokeapi.co/api/v2/pokemon-species/558/", "stats": {"hp": 70, "attack": 105, "defense": 125, "special-attack": 65, "special-defense": 75, "speed": 45}}
+{"id": 558, "name": "crustle", "height": 14, "weight": 2000, "base_experience": 170, "species_url": "https://pokeapi.co/api/v2/pokemon-species/558/", "stats": {"hp": 70, "attack": 105, "defense": 125, "special-attack": 65, "special-defense": 75, "speed": 45}}

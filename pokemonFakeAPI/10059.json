@@ -1,1 +1,1 @@
-{"id": 10059, "name": "lucario-mega", "height": 13, "weight": 575, "species": "https://pokeapi.co/api/v2/pokemon-species/448/", "stats": {"hp": 70, "attack": 145, "defense": 88, "special-attack": 140, "special-defense": 70, "speed": 112}}
+{"id": 10059, "name": "lucario-mega", "height": 13, "weight": 575, "base_experience": 219, "species_url": "https://pokeapi.co/api/v2/pokemon-species/448/", "stats": {"hp": 70, "attack": 145, "defense": 88, "special-attack": 140, "special-defense": 70, "speed": 112}}

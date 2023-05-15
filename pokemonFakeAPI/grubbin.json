@@ -1,1 +1,1 @@
-{"id": 736, "name": "grubbin", "height": 4, "weight": 44, "species": "https://pokeapi.co/api/v2/pokemon-species/736/", "stats": {"hp": 47, "attack": 62, "defense": 45, "special-attack": 55, "special-defense": 45, "speed": 46}}
+{"id": 736, "name": "grubbin", "height": 4, "weight": 44, "base_experience": 60, "species_url": "https://pokeapi.co/api/v2/pokemon-species/736/", "stats": {"hp": 47, "attack": 62, "defense": 45, "special-attack": 55, "special-defense": 45, "speed": 46}}

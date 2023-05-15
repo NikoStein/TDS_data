@@ -1,1 +1,1 @@
-{"id": 147, "name": "dratini", "height": 18, "weight": 33, "species": "https://pokeapi.co/api/v2/pokemon-species/147/", "stats": {"hp": 41, "attack": 64, "defense": 45, "special-attack": 50, "special-defense": 50, "speed": 50}}
+{"id": 147, "name": "dratini", "height": 18, "weight": 33, "base_experience": 60, "species_url": "https://pokeapi.co/api/v2/pokemon-species/147/", "stats": {"hp": 41, "attack": 64, "defense": 45, "special-attack": 50, "special-defense": 50, "speed": 50}}

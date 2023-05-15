@@ -1,1 +1,1 @@
-{"id": 776, "name": "turtonator", "height": 20, "weight": 2120, "species": "https://pokeapi.co/api/v2/pokemon-species/776/", "stats": {"hp": 60, "attack": 78, "defense": 135, "special-attack": 91, "special-defense": 85, "speed": 36}}
+{"id": 776, "name": "turtonator", "height": 20, "weight": 2120, "base_experience": 170, "species_url": "https://pokeapi.co/api/v2/pokemon-species/776/", "stats": {"hp": 60, "attack": 78, "defense": 135, "special-attack": 91, "special-defense": 85, "speed": 36}}

@@ -1,1 +1,1 @@
-{"id": 10112, "name": "grimer-alola", "height": 7, "weight": 420, "species": "https://pokeapi.co/api/v2/pokemon-species/88/", "stats": {"hp": 80, "attack": 80, "defense": 50, "special-attack": 40, "special-defense": 50, "speed": 25}}
+{"id": 10112, "name": "grimer-alola", "height": 7, "weight": 420, "base_experience": 65, "species_url": "https://pokeapi.co/api/v2/pokemon-species/88/", "stats": {"hp": 80, "attack": 80, "defense": 50, "special-attack": 40, "special-defense": 50, "speed": 25}}

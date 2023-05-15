@@ -1,1 +1,1 @@
-{"id": 106, "name": "hitmonlee", "height": 15, "weight": 498, "species": "https://pokeapi.co/api/v2/pokemon-species/106/", "stats": {"hp": 50, "attack": 120, "defense": 53, "special-attack": 35, "special-defense": 110, "speed": 87}}
+{"id": 106, "name": "hitmonlee", "height": 15, "weight": 498, "base_experience": 159, "species_url": "https://pokeapi.co/api/v2/pokemon-species/106/", "stats": {"hp": 50, "attack": 120, "defense": 53, "special-attack": 35, "special-defense": 110, "speed": 87}}

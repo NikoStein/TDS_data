@@ -1,1 +1,1 @@
-{"id": 10022, "name": "kyurem-black", "height": 33, "weight": 3250, "species": "https://pokeapi.co/api/v2/pokemon-species/646/", "stats": {"hp": 125, "attack": 170, "defense": 100, "special-attack": 120, "special-defense": 90, "speed": 95}}
+{"id": 10022, "name": "kyurem-black", "height": 33, "weight": 3250, "base_experience": 350, "species_url": "https://pokeapi.co/api/v2/pokemon-species/646/", "stats": {"hp": 125, "attack": 170, "defense": 100, "special-attack": 120, "special-defense": 90, "speed": 95}}

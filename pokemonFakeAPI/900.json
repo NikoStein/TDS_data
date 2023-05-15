@@ -1,1 +1,1 @@
-{"id": 900, "name": "kleavor", "height": 18, "weight": 890, "species": "https://pokeapi.co/api/v2/pokemon-species/900/", "stats": {"hp": 70, "attack": 135, "defense": 95, "special-attack": 45, "special-defense": 70, "speed": 85}}
+{"id": 900, "name": "kleavor", "height": 18, "weight": 890, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/900/", "stats": {"hp": 70, "attack": 135, "defense": 95, "special-attack": 45, "special-defense": 70, "speed": 85}}

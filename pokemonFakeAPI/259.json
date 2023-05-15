@@ -1,1 +1,1 @@
-{"id": 259, "name": "marshtomp", "height": 7, "weight": 280, "species": "https://pokeapi.co/api/v2/pokemon-species/259/", "stats": {"hp": 70, "attack": 85, "defense": 70, "special-attack": 60, "special-defense": 70, "speed": 50}}
+{"id": 259, "name": "marshtomp", "height": 7, "weight": 280, "base_experience": 142, "species_url": "https://pokeapi.co/api/v2/pokemon-species/259/", "stats": {"hp": 70, "attack": 85, "defense": 70, "special-attack": 60, "special-defense": 70, "speed": 50}}

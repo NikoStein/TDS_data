@@ -1,1 +1,1 @@
-{"id": 977, "name": "dondozo", "height": 120, "weight": 2200, "species": "https://pokeapi.co/api/v2/pokemon-species/977/", "stats": {"hp": 150, "attack": 100, "defense": 115, "special-attack": 65, "special-defense": 65, "speed": 35}}
+{"id": 977, "name": "dondozo", "height": 120, "weight": 2200, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/977/", "stats": {"hp": 150, "attack": 100, "defense": 115, "special-attack": 65, "special-defense": 65, "speed": 35}}

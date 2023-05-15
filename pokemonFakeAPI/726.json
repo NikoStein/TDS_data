@@ -1,1 +1,1 @@
-{"id": 726, "name": "torracat", "height": 7, "weight": 250, "species": "https://pokeapi.co/api/v2/pokemon-species/726/", "stats": {"hp": 65, "attack": 85, "defense": 50, "special-attack": 80, "special-defense": 50, "speed": 90}}
+{"id": 726, "name": "torracat", "height": 7, "weight": 250, "base_experience": 147, "species_url": "https://pokeapi.co/api/v2/pokemon-species/726/", "stats": {"hp": 65, "attack": 85, "defense": 50, "special-attack": 80, "special-defense": 50, "speed": 90}}

@@ -1,1 +1,1 @@
-{"id": 434, "name": "stunky", "height": 4, "weight": 192, "species": "https://pokeapi.co/api/v2/pokemon-species/434/", "stats": {"hp": 63, "attack": 63, "defense": 47, "special-attack": 41, "special-defense": 41, "speed": 74}}
+{"id": 434, "name": "stunky", "height": 4, "weight": 192, "base_experience": 66, "species_url": "https://pokeapi.co/api/v2/pokemon-species/434/", "stats": {"hp": 63, "attack": 63, "defense": 47, "special-attack": 41, "special-defense": 41, "speed": 74}}

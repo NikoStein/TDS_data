@@ -1,1 +1,1 @@
-{"id": 76, "name": "golem", "height": 14, "weight": 3000, "species": "https://pokeapi.co/api/v2/pokemon-species/76/", "stats": {"hp": 80, "attack": 120, "defense": 130, "special-attack": 55, "special-defense": 65, "speed": 45}}
+{"id": 76, "name": "golem", "height": 14, "weight": 3000, "base_experience": 223, "species_url": "https://pokeapi.co/api/v2/pokemon-species/76/", "stats": {"hp": 80, "attack": 120, "defense": 130, "special-attack": 55, "special-defense": 65, "speed": 45}}

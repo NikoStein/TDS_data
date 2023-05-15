@@ -1,1 +1,1 @@
-{"id": 885, "name": "dreepy", "height": 5, "weight": 20, "species": "https://pokeapi.co/api/v2/pokemon-species/885/", "stats": {"hp": 28, "attack": 60, "defense": 30, "special-attack": 40, "special-defense": 30, "speed": 82}}
+{"id": 885, "name": "dreepy", "height": 5, "weight": 20, "base_experience": 54, "species_url": "https://pokeapi.co/api/v2/pokemon-species/885/", "stats": {"hp": 28, "attack": 60, "defense": 30, "special-attack": 40, "special-defense": 30, "speed": 82}}

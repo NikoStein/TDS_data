@@ -1,1 +1,1 @@
-{"id": 31, "name": "nidoqueen", "height": 13, "weight": 600, "species": "https://pokeapi.co/api/v2/pokemon-species/31/", "stats": {"hp": 90, "attack": 92, "defense": 87, "special-attack": 75, "special-defense": 85, "speed": 76}}
+{"id": 31, "name": "nidoqueen", "height": 13, "weight": 600, "base_experience": 253, "species_url": "https://pokeapi.co/api/v2/pokemon-species/31/", "stats": {"hp": 90, "attack": 92, "defense": 87, "special-attack": 75, "special-defense": 85, "speed": 76}}

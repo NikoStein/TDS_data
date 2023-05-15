@@ -1,1 +1,1 @@
-{"id": 137, "name": "porygon", "height": 8, "weight": 365, "species": "https://pokeapi.co/api/v2/pokemon-species/137/", "stats": {"hp": 65, "attack": 60, "defense": 70, "special-attack": 85, "special-defense": 75, "speed": 40}}
+{"id": 137, "name": "porygon", "height": 8, "weight": 365, "base_experience": 79, "species_url": "https://pokeapi.co/api/v2/pokemon-species/137/", "stats": {"hp": 65, "attack": 60, "defense": 70, "special-attack": 85, "special-defense": 75, "speed": 40}}

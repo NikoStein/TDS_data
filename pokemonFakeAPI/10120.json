@@ -1,1 +1,1 @@
-{"id": 10120, "name": "zygarde-complete", "height": 45, "weight": 6100, "species": "https://pokeapi.co/api/v2/pokemon-species/718/", "stats": {"hp": 216, "attack": 100, "defense": 121, "special-attack": 91, "special-defense": 95, "speed": 85}}
+{"id": 10120, "name": "zygarde-complete", "height": 45, "weight": 6100, "base_experience": 354, "species_url": "https://pokeapi.co/api/v2/pokemon-species/718/", "stats": {"hp": 216, "attack": 100, "defense": 121, "special-attack": 91, "special-defense": 95, "speed": 85}}

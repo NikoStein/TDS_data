@@ -1,1 +1,1 @@
-{"id": 10124, "name": "oricorio-pau", "height": 6, "weight": 34, "species": "https://pokeapi.co/api/v2/pokemon-species/741/", "stats": {"hp": 75, "attack": 70, "defense": 70, "special-attack": 98, "special-defense": 70, "speed": 93}}
+{"id": 10124, "name": "oricorio-pau", "height": 6, "weight": 34, "base_experience": 167, "species_url": "https://pokeapi.co/api/v2/pokemon-species/741/", "stats": {"hp": 75, "attack": 70, "defense": 70, "special-attack": 98, "special-defense": 70, "speed": 93}}

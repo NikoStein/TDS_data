@@ -1,1 +1,1 @@
-{"id": 10051, "name": "gardevoir-mega", "height": 16, "weight": 484, "species": "https://pokeapi.co/api/v2/pokemon-species/282/", "stats": {"hp": 68, "attack": 85, "defense": 65, "special-attack": 165, "special-defense": 135, "speed": 100}}
+{"id": 10051, "name": "gardevoir-mega", "height": 16, "weight": 484, "base_experience": 278, "species_url": "https://pokeapi.co/api/v2/pokemon-species/282/", "stats": {"hp": 68, "attack": 85, "defense": 65, "special-attack": 165, "special-defense": 135, "speed": 100}}

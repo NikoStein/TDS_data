@@ -1,1 +1,1 @@
-{"id": 144, "name": "articuno", "height": 17, "weight": 554, "species": "https://pokeapi.co/api/v2/pokemon-species/144/", "stats": {"hp": 90, "attack": 85, "defense": 100, "special-attack": 95, "special-defense": 125, "speed": 85}}
+{"id": 144, "name": "articuno", "height": 17, "weight": 554, "base_experience": 290, "species_url": "https://pokeapi.co/api/v2/pokemon-species/144/", "stats": {"hp": 90, "attack": 85, "defense": 100, "special-attack": 95, "special-defense": 125, "speed": 85}}

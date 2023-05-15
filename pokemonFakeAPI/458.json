@@ -1,1 +1,1 @@
-{"id": 458, "name": "mantyke", "height": 10, "weight": 650, "species": "https://pokeapi.co/api/v2/pokemon-species/458/", "stats": {"hp": 45, "attack": 20, "defense": 50, "special-attack": 60, "special-defense": 120, "speed": 50}}
+{"id": 458, "name": "mantyke", "height": 10, "weight": 650, "base_experience": 69, "species_url": "https://pokeapi.co/api/v2/pokemon-species/458/", "stats": {"hp": 45, "attack": 20, "defense": 50, "special-attack": 60, "special-defense": 120, "speed": 50}}

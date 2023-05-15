@@ -1,1 +1,1 @@
-{"id": 59, "name": "arcanine", "height": 19, "weight": 1550, "species": "https://pokeapi.co/api/v2/pokemon-species/59/", "stats": {"hp": 90, "attack": 110, "defense": 80, "special-attack": 100, "special-defense": 80, "speed": 95}}
+{"id": 59, "name": "arcanine", "height": 19, "weight": 1550, "base_experience": 194, "species_url": "https://pokeapi.co/api/v2/pokemon-species/59/", "stats": {"hp": 90, "attack": 110, "defense": 80, "special-attack": 100, "special-defense": 80, "speed": 95}}

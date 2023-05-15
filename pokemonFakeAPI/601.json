@@ -1,1 +1,1 @@
-{"id": 601, "name": "klinklang", "height": 6, "weight": 810, "species": "https://pokeapi.co/api/v2/pokemon-species/601/", "stats": {"hp": 60, "attack": 100, "defense": 115, "special-attack": 70, "special-defense": 85, "speed": 90}}
+{"id": 601, "name": "klinklang", "height": 6, "weight": 810, "base_experience": 260, "species_url": "https://pokeapi.co/api/v2/pokemon-species/601/", "stats": {"hp": 60, "attack": 100, "defense": 115, "special-attack": 70, "special-defense": 85, "speed": 90}}

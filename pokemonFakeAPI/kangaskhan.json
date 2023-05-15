@@ -1,1 +1,1 @@
-{"id": 115, "name": "kangaskhan", "height": 22, "weight": 800, "species": "https://pokeapi.co/api/v2/pokemon-species/115/", "stats": {"hp": 105, "attack": 95, "defense": 80, "special-attack": 40, "special-defense": 80, "speed": 90}}
+{"id": 115, "name": "kangaskhan", "height": 22, "weight": 800, "base_experience": 172, "species_url": "https://pokeapi.co/api/v2/pokemon-species/115/", "stats": {"hp": 105, "attack": 95, "defense": 80, "special-attack": 40, "special-defense": 80, "speed": 90}}

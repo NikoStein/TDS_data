@@ -1,1 +1,1 @@
-{"id": 576, "name": "gothitelle", "height": 15, "weight": 440, "species": "https://pokeapi.co/api/v2/pokemon-species/576/", "stats": {"hp": 70, "attack": 55, "defense": 95, "special-attack": 95, "special-defense": 110, "speed": 65}}
+{"id": 576, "name": "gothitelle", "height": 15, "weight": 440, "base_experience": 245, "species_url": "https://pokeapi.co/api/v2/pokemon-species/576/", "stats": {"hp": 70, "attack": 55, "defense": 95, "special-attack": 95, "special-defense": 110, "speed": 65}}

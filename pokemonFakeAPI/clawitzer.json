@@ -1,1 +1,1 @@
-{"id": 693, "name": "clawitzer", "height": 13, "weight": 353, "species": "https://pokeapi.co/api/v2/pokemon-species/693/", "stats": {"hp": 71, "attack": 73, "defense": 88, "special-attack": 120, "special-defense": 89, "speed": 59}}
+{"id": 693, "name": "clawitzer", "height": 13, "weight": 353, "base_experience": 100, "species_url": "https://pokeapi.co/api/v2/pokemon-species/693/", "stats": {"hp": 71, "attack": 73, "defense": 88, "special-attack": 120, "special-defense": 89, "speed": 59}}

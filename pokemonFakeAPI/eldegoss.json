@@ -1,1 +1,1 @@
-{"id": 830, "name": "eldegoss", "height": 5, "weight": 25, "species": "https://pokeapi.co/api/v2/pokemon-species/830/", "stats": {"hp": 60, "attack": 50, "defense": 90, "special-attack": 80, "special-defense": 120, "speed": 60}}
+{"id": 830, "name": "eldegoss", "height": 5, "weight": 25, "base_experience": 161, "species_url": "https://pokeapi.co/api/v2/pokemon-species/830/", "stats": {"hp": 60, "attack": 50, "defense": 90, "special-attack": 80, "special-defense": 120, "speed": 60}}

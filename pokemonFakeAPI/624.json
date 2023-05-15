@@ -1,1 +1,1 @@
-{"id": 624, "name": "pawniard", "height": 5, "weight": 102, "species": "https://pokeapi.co/api/v2/pokemon-species/624/", "stats": {"hp": 45, "attack": 85, "defense": 70, "special-attack": 40, "special-defense": 40, "speed": 60}}
+{"id": 624, "name": "pawniard", "height": 5, "weight": 102, "base_experience": 68, "species_url": "https://pokeapi.co/api/v2/pokemon-species/624/", "stats": {"hp": 45, "attack": 85, "defense": 70, "special-attack": 40, "special-defense": 40, "speed": 60}}

@@ -1,1 +1,1 @@
-{"id": 916, "name": "oinkologne", "height": 10, "weight": 1200, "species": "https://pokeapi.co/api/v2/pokemon-species/916/", "stats": {"hp": 110, "attack": 100, "defense": 75, "special-attack": 59, "special-defense": 80, "speed": 65}}
+{"id": 916, "name": "oinkologne", "height": 10, "weight": 1200, "base_experience": null, "species_url": "https://pokeapi.co/api/v2/pokemon-species/916/", "stats": {"hp": 110, "attack": 100, "defense": 75, "special-attack": 59, "special-defense": 80, "speed": 65}}

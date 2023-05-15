@@ -1,1 +1,1 @@
-{"id": 527, "name": "woobat", "height": 4, "weight": 21, "species": "https://pokeapi.co/api/v2/pokemon-species/527/", "stats": {"hp": 65, "attack": 45, "defense": 43, "special-attack": 55, "special-defense": 43, "speed": 72}}
+{"id": 527, "name": "woobat", "height": 4, "weight": 21, "base_experience": 65, "species_url": "https://pokeapi.co/api/v2/pokemon-species/527/", "stats": {"hp": 65, "attack": 45, "defense": 43, "special-attack": 55, "special-defense": 43, "speed": 72}}

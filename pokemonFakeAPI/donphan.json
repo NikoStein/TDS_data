@@ -1,1 +1,1 @@
-{"id": 232, "name": "donphan", "height": 11, "weight": 1200, "species": "https://pokeapi.co/api/v2/pokemon-species/232/", "stats": {"hp": 90, "attack": 120, "defense": 120, "special-attack": 60, "special-defense": 60, "speed": 50}}
+{"id": 232, "name": "donphan", "height": 11, "weight": 1200, "base_experience": 175, "species_url": "https://pokeapi.co/api/v2/pokemon-species/232/", "stats": {"hp": 90, "attack": 120, "defense": 120, "special-attack": 60, "special-defense": 60, "speed": 50}}

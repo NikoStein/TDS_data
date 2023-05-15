@@ -1,1 +1,1 @@
-{"id": 586, "name": "sawsbuck", "height": 19, "weight": 925, "species": "https://pokeapi.co/api/v2/pokemon-species/586/", "stats": {"hp": 80, "attack": 100, "defense": 70, "special-attack": 60, "special-defense": 70, "speed": 95}}
+{"id": 586, "name": "sawsbuck", "height": 19, "weight": 925, "base_experience": 166, "species_url": "https://pokeapi.co/api/v2/pokemon-species/586/", "stats": {"hp": 80, "attack": 100, "defense": 70, "special-attack": 60, "special-defense": 70, "speed": 95}}

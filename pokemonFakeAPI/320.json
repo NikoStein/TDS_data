@@ -1,1 +1,1 @@
-{"id": 320, "name": "wailmer", "height": 20, "weight": 1300, "species": "https://pokeapi.co/api/v2/pokemon-species/320/", "stats": {"hp": 130, "attack": 70, "defense": 35, "special-attack": 70, "special-defense": 35, "speed": 60}}
+{"id": 320, "name": "wailmer", "height": 20, "weight": 1300, "base_experience": 80, "species_url": "https://pokeapi.co/api/v2/pokemon-species/320/", "stats": {"hp": 130, "attack": 70, "defense": 35, "special-attack": 70, "special-defense": 35, "speed": 60}}

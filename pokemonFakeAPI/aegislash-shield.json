@@ -1,1 +1,1 @@
-{"id": 681, "name": "aegislash-shield", "height": 17, "weight": 530, "species": "https://pokeapi.co/api/v2/pokemon-species/681/", "stats": {"hp": 60, "attack": 50, "defense": 140, "special-attack": 50, "special-defense": 140, "speed": 60}}
+{"id": 681, "name": "aegislash-shield", "height": 17, "weight": 530, "base_experience": 250, "species_url": "https://pokeapi.co/api/v2/pokemon-species/681/", "stats": {"hp": 60, "attack": 50, "defense": 140, "special-attack": 50, "special-defense": 140, "speed": 60}}

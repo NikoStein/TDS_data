@@ -1,1 +1,1 @@
-{"id": 10189, "name": "zamazenta-crowned", "height": 29, "weight": 7850, "species": "https://pokeapi.co/api/v2/pokemon-species/889/", "stats": {"hp": 92, "attack": 130, "defense": 145, "special-attack": 80, "special-defense": 145, "speed": 128}}
+{"id": 10189, "name": "zamazenta-crowned", "height": 29, "weight": 7850, "base_experience": 360, "species_url": "https://pokeapi.co/api/v2/pokemon-species/889/", "stats": {"hp": 92, "attack": 130, "defense": 145, "special-attack": 80, "special-defense": 145, "speed": 128}}

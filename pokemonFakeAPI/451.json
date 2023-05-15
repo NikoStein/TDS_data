@@ -1,1 +1,1 @@
-{"id": 451, "name": "skorupi", "height": 8, "weight": 120, "species": "https://pokeapi.co/api/v2/pokemon-species/451/", "stats": {"hp": 40, "attack": 50, "defense": 90, "special-attack": 30, "special-defense": 55, "speed": 65}}
+{"id": 451, "name": "skorupi", "height": 8, "weight": 120, "base_experience": 66, "species_url": "https://pokeapi.co/api/v2/pokemon-species/451/", "stats": {"hp": 40, "attack": 50, "defense": 90, "special-attack": 30, "special-defense": 55, "speed": 65}}

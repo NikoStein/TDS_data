@@ -1,1 +1,1 @@
-{"id": 269, "name": "dustox", "height": 12, "weight": 316, "species": "https://pokeapi.co/api/v2/pokemon-species/269/", "stats": {"hp": 60, "attack": 50, "defense": 70, "special-attack": 50, "special-defense": 90, "speed": 65}}
+{"id": 269, "name": "dustox", "height": 12, "weight": 316, "base_experience": 173, "species_url": "https://pokeapi.co/api/v2/pokemon-species/269/", "stats": {"hp": 60, "attack": 50, "defense": 70, "special-attack": 50, "special-defense": 90, "speed": 65}}

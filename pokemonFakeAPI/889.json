@@ -1,1 +1,1 @@
-{"id": 889, "name": "zamazenta", "height": 29, "weight": 2100, "species": "https://pokeapi.co/api/v2/pokemon-species/889/", "stats": {"hp": 92, "attack": 130, "defense": 115, "special-attack": 80, "special-defense": 115, "speed": 138}}
+{"id": 889, "name": "zamazenta", "height": 29, "weight": 2100, "base_experience": 335, "species_url": "https://pokeapi.co/api/v2/pokemon-species/889/", "stats": {"hp": 92, "attack": 130, "defense": 115, "special-attack": 80, "special-defense": 115, "speed": 138}}

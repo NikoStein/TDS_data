@@ -1,1 +1,1 @@
-{"id": 10152, "name": "lycanroc-dusk", "height": 8, "weight": 250, "species": "https://pokeapi.co/api/v2/pokemon-species/745/", "stats": {"hp": 75, "attack": 117, "defense": 65, "special-attack": 55, "special-defense": 65, "speed": 110}}
+{"id": 10152, "name": "lycanroc-dusk", "height": 8, "weight": 250, "base_experience": 170, "species_url": "https://pokeapi.co/api/v2/pokemon-species/745/", "stats": {"hp": 75, "attack": 117, "defense": 65, "special-attack": 55, "special-defense": 65, "speed": 110}}

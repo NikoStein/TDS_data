@@ -1,1 +1,1 @@
-{"id": 228, "name": "houndour", "height": 6, "weight": 108, "species": "https://pokeapi.co/api/v2/pokemon-species/228/", "stats": {"hp": 45, "attack": 60, "defense": 30, "special-attack": 80, "special-defense": 50, "speed": 65}}
+{"id": 228, "name": "houndour", "height": 6, "weight": 108, "base_experience": 66, "species_url": "https://pokeapi.co/api/v2/pokemon-species/228/", "stats": {"hp": 45, "attack": 60, "defense": 30, "special-attack": 80, "special-defense": 50, "speed": 65}}

@@ -1,1 +1,1 @@
-{"id": 188, "name": "skiploom", "height": 6, "weight": 10, "species": "https://pokeapi.co/api/v2/pokemon-species/188/", "stats": {"hp": 55, "attack": 45, "defense": 50, "special-attack": 45, "special-defense": 65, "speed": 80}}
+{"id": 188, "name": "skiploom", "height": 6, "weight": 10, "base_experience": 119, "species_url": "https://pokeapi.co/api/v2/pokemon-species/188/", "stats": {"hp": 55, "attack": 45, "defense": 50, "special-attack": 45, "special-defense": 65, "speed": 80}}

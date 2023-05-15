@@ -1,1 +1,1 @@
-{"id": 12, "name": "butterfree", "height": 11, "weight": 320, "species": "https://pokeapi.co/api/v2/pokemon-species/12/", "stats": {"hp": 60, "attack": 45, "defense": 50, "special-attack": 90, "special-defense": 80, "speed": 70}}
+{"id": 12, "name": "butterfree", "height": 11, "weight": 320, "base_experience": 198, "species_url": "https://pokeapi.co/api/v2/pokemon-species/12/", "stats": {"hp": 60, "attack": 45, "defense": 50, "special-attack": 90, "special-defense": 80, "speed": 70}}

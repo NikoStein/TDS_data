@@ -1,1 +1,1 @@
-{"id": 513, "name": "pansear", "height": 6, "weight": 110, "species": "https://pokeapi.co/api/v2/pokemon-species/513/", "stats": {"hp": 50, "attack": 53, "defense": 48, "special-attack": 53, "special-defense": 48, "speed": 64}}
+{"id": 513, "name": "pansear", "height": 6, "weight": 110, "base_experience": 63, "species_url": "https://pokeapi.co/api/v2/pokemon-species/513/", "stats": {"hp": 50, "attack": 53, "defense": 48, "special-attack": 53, "special-defense": 48, "speed": 64}}

@@ -1,1 +1,1 @@
-{"id": 121, "name": "starmie", "height": 11, "weight": 800, "species": "https://pokeapi.co/api/v2/pokemon-species/121/", "stats": {"hp": 60, "attack": 75, "defense": 85, "special-attack": 100, "special-defense": 85, "speed": 115}}
+{"id": 121, "name": "starmie", "height": 11, "weight": 800, "base_experience": 182, "species_url": "https://pokeapi.co/api/v2/pokemon-species/121/", "stats": {"hp": 60, "attack": 75, "defense": 85, "special-attack": 100, "special-defense": 85, "speed": 115}}

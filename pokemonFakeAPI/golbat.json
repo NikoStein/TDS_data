@@ -1,1 +1,1 @@
-{"id": 42, "name": "golbat", "height": 16, "weight": 550, "species": "https://pokeapi.co/api/v2/pokemon-species/42/", "stats": {"hp": 75, "attack": 80, "defense": 70, "special-attack": 65, "special-defense": 75, "speed": 90}}
+{"id": 42, "name": "golbat", "height": 16, "weight": 550, "base_experience": 159, "species_url": "https://pokeapi.co/api/v2/pokemon-species/42/", "stats": {"hp": 75, "attack": 80, "defense": 70, "special-attack": 65, "special-defense": 75, "speed": 90}}

@@ -1,1 +1,1 @@
-{"id": 10056, "name": "banette-mega", "height": 12, "weight": 130, "species": "https://pokeapi.co/api/v2/pokemon-species/354/", "stats": {"hp": 64, "attack": 165, "defense": 75, "special-attack": 93, "special-defense": 83, "speed": 75}}
+{"id": 10056, "name": "banette-mega", "height": 12, "weight": 130, "base_experience": 194, "species_url": "https://pokeapi.co/api/v2/pokemon-species/354/", "stats": {"hp": 64, "attack": 165, "defense": 75, "special-attack": 93, "special-defense": 83, "speed": 75}}

@@ -1,1 +1,1 @@
-{"id": 10107, "name": "meowth-alola", "height": 4, "weight": 42, "species": "https://pokeapi.co/api/v2/pokemon-species/52/", "stats": {"hp": 40, "attack": 35, "defense": 35, "special-attack": 50, "special-defense": 40, "speed": 90}}
+{"id": 10107, "name": "meowth-alola", "height": 4, "weight": 42, "base_experience": 58, "species_url": "https://pokeapi.co/api/v2/pokemon-species/52/", "stats": {"hp": 40, "attack": 35, "defense": 35, "special-attack": 50, "special-defense": 40, "speed": 90}}
