@@ -19,7 +19,7 @@ This API provides data related to Formula 1 races, constructors, and seasons.
 ### `/f1fakeapi/constructors/{constructorId}/results/1.json`
 
 - **Method:** GET
-- **Description:** Get the results of all races won by a specific constructor.
+- **Description:** Get the results of all races by a specific constructor.
 - **Response:** A JSON object containing details of all races won by the specified constructor.
 
 ### `/f1fakeapi/{year}.json`
